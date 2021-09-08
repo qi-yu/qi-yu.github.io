@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <h1 class="page-heading">{{ page.title }}</h1>
+        <div class="work">
+
+          {% for item in page.items %}
+          <ul>
+            <span class="headspan">{{ item.title }}<br></span>
+            {{ item.description }}
+          </ul>
+          {% endfor %} <!-- page.items -->
+
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>
