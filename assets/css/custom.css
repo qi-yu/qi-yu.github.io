@@ -14,8 +14,9 @@ h3 {
 }
 
 .header_title {
+    font-family: 'Helvetica', sans-serif;
     font-weight: 700;
-    font-size: 35pt;
+    font-size: 25pt;
     color: #111
 }
 
