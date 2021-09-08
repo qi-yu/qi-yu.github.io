@@ -18,7 +18,7 @@ header:
     - name: Teaching
       slug: /teaching
     - name: Gallery
-      slug: /gallery
+      slug: /horcrux
 
 footer:
   show_powered_by: true
