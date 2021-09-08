@@ -13,7 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Publications & Talks
+      slug: publication
     - name: Blog
 
 footer:
