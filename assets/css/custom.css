@@ -1,0 +1,67 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    font-size: 11pt;
+    font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 13pt;
+}
+
+.header_title {
+    font-weight: 700;
+    font-size: 13pt;
+    color: #111
+}
+
+.page-heading {
+    color: #2a7ae2;
+    font-size: 18pt;
+}
+
+.headsec {
+    font-weight: 700;
+}
+
+.headspan {
+    font-weight: 700;
+    font-size: 12pt;
+}
+
+.headspan2 {
+    font-weight: 700;
+}
+
+.me, .title, .menu {
+    font-weight: 600;
+}
+
+.special {
+    font-weight: 600;
+    color: red;
+}
+
+ul li {
+    margin-bottom: 1rem;
+}
+
+ul.subproject {
+    margin-bottom: 0rem;
+}
+
+.subproject li {
+    margin-bottom: 0rem;
+}
+
+.wrapper {
+    max-width: 850px;
+}
+
+.profilepic {
+    border: #255 0px solid
+}
