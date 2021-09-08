@@ -44,7 +44,6 @@ categories:
             year: 2021
             workshop: 17th International Pragmatics Conference (IPrA)
             note: June 27-July 2. Zurich University of Applied Sciences, Switzerland
-            poster: /assets/pdf/2021_IPrA.pdf
             
       - year: 2019
         items:

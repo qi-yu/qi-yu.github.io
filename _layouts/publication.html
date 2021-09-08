@@ -32,14 +32,8 @@
               {% if item.special and item.special != "" and item.special != nil %}
                 <span class="special">{{ item.special }}</span>
               {% endif %}
-              {% if item.doi and item.doi != "" and item.doi != nil %}
-                <a href="{{ item.doi }}" target="_blank">[DOI]</a>
-              {% endif %}
               {% if item.pdf and item.pdf != "" and item.pdf != nil %}
                 <a href="{{ item.pdf }}" target="_blank">[PDF]</a>
-              {% endif %}
-              {% if item.poster and item.poster != "" and item.poster != nil %}
-                <a href="{{ item.poster }}" target="_blank">[POSTER]</a>
               {% endif %}
               {% if item.resource and item.resource != "" and item.resource != nil %}
                 <a href="{{ item.resource }}" target="_blank">[RESOURCE]</a>
