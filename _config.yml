@@ -14,8 +14,9 @@ header:
     - name: Home
       slug: /
     - name: Publications & Talks
-      slug: publication
-    - name: Blog
+      slug: /publication
+    - name: Teaching
+      slug: /teaching
 
 footer:
   show_powered_by: true
