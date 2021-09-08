@@ -27,7 +27,7 @@ categories:
             note: 58, 7-22
             pdf: /assets/pdf/2020_LB.pdf
       
-  - name: Talks
+  - name: Talks and Posters
     sections:
       - year: Forthcoming
         items:
