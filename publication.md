@@ -44,6 +44,14 @@ categories:
             year: 2021
             workshop: 17th International Pragmatics Conference (IPrA)
             note: June 27-July 2. Zurich University of Applied Sciences, Switzerland
+
+      - year: 2020
+        items:
+          - title: <em>Enigmatic compounds as probes of common ground&#58; BILD and other media</em>
+            authors: Regine Eckardt and <b>Qi Yu</b>
+            year: 2020
+            workshop: Workshop "Common Ground in Literary Communication”
+            note: November 20. University of Tübingen, Germany
             
       - year: 2019
         items:
