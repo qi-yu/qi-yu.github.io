@@ -6,5 +6,5 @@ items:
     description: Python (B.A. level, co-teaching with Prof. Miriam Butt)
   
   - title: Winter 2018/19
-    description: Tutorium of Pragmatics I (B.A. level)
+    description: Tutorial of Pragmatics I (B.A. level)
 ---
