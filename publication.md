@@ -29,13 +29,14 @@ categories:
       
   - name: Talks and Posters
     sections:
-      - year: Forthcoming
+      - year: 2022
         items:
           - title: <em>Enigmatic compounds&#58; How they act as source of attitudinal meaning</em>
             authors: <b>Qi Yu</b> and Regine Eckardt
             year: 2022
             workshop: Workshop "Literal and Figurative Meanings of Compounds"
             note: Februrary 23-25. University of Tübingen, Germany
+            handout: /assets/pdf/2022_DGfS.pdf
             
       - year: 2021
         items:

@@ -38,6 +38,9 @@
               {% if item.resource and item.resource != "" and item.resource != nil %}
                 <a href="{{ item.resource }}" target="_blank">[RESOURCE]</a>
               {% endif %}
+              {% if item.handout and item.handout != "" and item.handout != nil %}
+                <a href="{{ item.handout }}" target="_blank">[HANDOUT]</a>
+              {% endif %}
             <br><br>
             <!--/li-->
           {% endfor %} <!-- section.items -->
