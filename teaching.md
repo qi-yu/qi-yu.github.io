@@ -1,10 +1,13 @@
 ---
 layout: teaching
-title: Teaching at the University of Konstanz
+title: Teaching
 items:
-  - title: Winter 2021/22
-    description: Python (B.A. level, co-teaching with Prof. Miriam Butt)
+  - title: Zurich University of Applied Sciences (ZHAW), March 3-4, 2022
+    description: <i>Python for Linguists</i> (PhD seminar, content developed from scratch)
   
-  - title: Winter 2018/19
-    description: Tutorial of Pragmatics I (B.A. level)
+  - title: University of Konstanz, Winter 2021/22
+    description: <i>Python</i> (B.A. level, co-teaching with Prof. Dr. Miriam Butt)
+  
+  - title: University of Konstanz, Winter 2018/19
+    description: <i>Tutorial of Pragmatics I</i> (B.A. level, main lecture taught by Dr. Manfred Kupffer)
 ---
