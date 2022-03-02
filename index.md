@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-In March 2020, I started my journey in the research world as a PhD candidate in computational linguistics and a research fellow (<i>Wissenschaftliche Mitarbeiter</i>) at the Cluster of Excellence "The Politics of Inequality", 
+In March 2020, I started my journey in the research world as a PhD student in computational linguistics and a research fellow (<i>Wissenschaftliche Mitarbeiterin</i>) at the Cluster of Excellence "The Politics of Inequality", 
 University of Konstanz. 
 </p>
 <p>
