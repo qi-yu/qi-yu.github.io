@@ -3,16 +3,23 @@ layout: publication
 categories:
   - name: Publications
     sections: 
+      - year: Forthcoming 
+        items:
+          - title: '&#34;Again, Dozens of Refugees Drowned&#34;&#58; A Computational Study of Political Framing Evoked by Presuppositions' 
+            authors: <b>Qi Yu</b>
+            year: 2022
+            inbook: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)&#58; Student Research Workshop
+            
       - year: 2021
         items:
-          - title: Frame detection in German political discourses&#58; How far can we go without large-scale manual corpus annotation?
+          - title: Frame Detection in German Political Discourses&#58; How Far Can We Go Without Large-Scale Manual Corpus Annotation?
             authors: <b>Qi Yu</b> and Anselm Fliethmann
             year: 2021
             inbook: Proceedings of 1st Workshop on Computational Linguistics for Political Text Analysis (CPSS)
             pdf: /assets/pdf/2021_CPSS.pdf
             resource: https://github.com/qi-yu/refugees-and-migration-framing-vocabulary
             
-          - title: KonTra at CMCL 2021 Shared Task&#58; Predicting Eye Movements by combining BERT with Surface, Linguistic and Behavioral Information
+          - title: KonTra at CMCL 2021 Shared Task&#58; Predicting Eye Movements by Combining BERT with Surface, Linguistic and Behavioral Information
             authors: <b>Qi Yu</b>, Aikaterini-Lida Kalouli and Diego Frassinelli
             year: 2021
             inbook: Proceeding of The 2021 Cognitive Modeling and Computational Linguistics Workshop (CMCL)
@@ -20,7 +27,7 @@ categories:
       
       - year: 2020
         items:
-          - title: German <i>bloß</i> questions as extreme ignorance questions
+          - title: German <i>bloß</i> Questions as Extreme Ignorance Questions
             authors: Regine Eckardt and <b>Qi Yu</b>
             year: 2020
             inbook: Linguistica Brunensia 
@@ -31,7 +38,7 @@ categories:
     sections:
       - year: 2022
         items:
-          - title: <em>Enigmatic compounds&#58; How they act as source of attitudinal meaning</em>
+          - title: <em>Enigmatic Compounds&#58; How They Act as Source of Attitudinal Meaning</em>
             authors: <b>Qi Yu</b> and Regine Eckardt
             year: 2022
             workshop: Workshop "Literal and Figurative Meanings of Compounds"
@@ -40,7 +47,7 @@ categories:
             
       - year: 2021
         items:
-          - title: <em>Compound-coinages as sources of attitudinal meaning</em>
+          - title: <em>Compound-Coinages as Sources of Attitudinal Meaning</em>
             authors: <b>Qi Yu</b>
             year: 2021
             workshop: 17th International Pragmatics Conference (IPrA)
@@ -48,7 +55,7 @@ categories:
 
       - year: 2020
         items:
-          - title: <em>Enigmatic compounds as probes of common ground&#58; BILD and other media</em>
+          - title: <em>Enigmatic Compounds as Probes of Common Ground&#58; BILD and Other Media</em>
             authors: Regine Eckardt and <b>Qi Yu</b>
             year: 2020
             workshop: Workshop "Common Ground in Literary Communication”
@@ -56,7 +63,7 @@ categories:
             
       - year: 2019
         items:
-          - title: <em>It's domain widening yet&#58; German nur/bloß as a marker of extreme ignorance questions</em>
+          - title: <em>It's Domain Widening Yet&#58; German nur/bloß as a Marker of Extreme Ignorance Questions</em>
             authors: Regine Eckardt and <b>Qi Yu</b>
             year: 2019
             workshop: Semantics and Philosophy in Europe" (SPE) 11
