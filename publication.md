@@ -3,7 +3,7 @@ layout: publication
 categories:
   - name: Publications
     sections: 
-      - year: Forthcoming 
+      - year: 2022 
         items:
           - title: '&#34;Again, Dozens of Refugees Drowned&#34;&#58; A Computational Study of Political Framing Evoked by Presuppositions' 
             authors: <b>Qi Yu</b>
@@ -38,6 +38,18 @@ categories:
     sections:
       - year: 2022
         items:
+          - title: <em>An experimental study on ad hoc compounds in political discourse</em>
+            authors: <b>Qi Yu</b>, Fabian Schlotterbeck, Regine Eckardt, and Britta Stolterfoht
+            year: 2022
+            workshop: 9th Experimental Pragmatics Conference (XPRAG 2022)
+            note: September 22-23, IUSS Pavia, Italy
+              
+          - title: <em>Stance marking and register differences in newspaper articles</em>
+            authors: Regine Eckardt and <b>Qi Yu</b>
+            year: 2022
+            workshop: Workshop "Metaphors and stance markers in register variation (MeStaR)"
+            note: June 16-17. Humboldt University of Berlin, Germany
+            
           - title: <em>Enigmatic Compounds&#58; How They Act as Source of Attitudinal Meaning</em>
             authors: <b>Qi Yu</b> and Regine Eckardt
             year: 2022
