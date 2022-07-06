@@ -9,6 +9,8 @@ categories:
             authors: <b>Qi Yu</b>
             year: 2022
             inbook: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)&#58; Student Research Workshop
+            resource: https://github.com/qi-yu/framing-by-presuppositions
+            special: (PDF forthcoming)
             
       - year: 2021
         items:
