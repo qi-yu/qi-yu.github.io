@@ -9,8 +9,8 @@ categories:
             authors: <b>Qi Yu</b>
             year: 2022
             inbook: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)&#58; Student Research Workshop
+            pdf: https://aclanthology.org/2022.naacl-srw.5.pdf
             resource: https://github.com/qi-yu/framing-by-presuppositions
-            special: (PDF forthcoming)
             
       - year: 2021
         items:
@@ -25,7 +25,7 @@ categories:
             authors: <b>Qi Yu</b>, Aikaterini-Lida Kalouli and Diego Frassinelli
             year: 2021
             inbook: Proceeding of The 2021 Cognitive Modeling and Computational Linguistics Workshop (CMCL)
-            pdf: /assets/pdf/2021_CMCL.pdf
+            pdf: https://aclanthology.org/2021.cmcl-1.15.pdf
       
       - year: 2020
         items:
