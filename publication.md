@@ -3,6 +3,15 @@ layout: publication
 categories:
   - name: Publications
     sections: 
+      - year: 2023 
+        items:
+          - title: 'Towards a More In-Depth Detection of Political Framing' 
+            authors: <b>Qi Yu</b>
+            year: 2023
+            inbook: Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+            pdf: https://sighum.files.wordpress.com/2023/04/shipout-book-apr9.pdf
+            resource: https://github.com/qi-yu/topical-and-rhetorical-framing
+            
       - year: 2022 
         items:
           - title: '&#34;Again, Dozens of Refugees Drowned&#34;&#58; A Computational Study of Political Framing Evoked by Presuppositions' 
@@ -21,6 +30,8 @@ categories:
             pdf: /assets/pdf/2021_CPSS.pdf
             resource: https://github.com/qi-yu/refugees-and-migration-framing-vocabulary
             
+      - year: 2021   
+        items:
           - title: KonTra at CMCL 2021 Shared Task&#58; Predicting Eye Movements by Combining BERT with Surface, Linguistic and Behavioral Information
             authors: <b>Qi Yu</b>, Aikaterini-Lida Kalouli and Diego Frassinelli
             year: 2021

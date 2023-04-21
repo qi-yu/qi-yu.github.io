@@ -11,8 +11,8 @@
         <h1 class="page-heading">{{ category.name }}</h1>
         {% for section in category.sections %}
         <div class="work">
-          <!--h3 {{ section.year }} -->
-          {{ section.desc }}
+          <!--h3 {{ section.year }}
+          {{ section.desc }} -->
 
           <ul>
           {% for item in section.items %}
@@ -41,7 +41,7 @@
               {% if item.handout and item.handout != "" and item.handout != nil %}
                 <a href="{{ item.handout }}" target="_blank">[HANDOUT]</a>
               {% endif %}
-            <br><br>
+            <!-- br --><!-- br -->
             <!--/li-->
           {% endfor %} <!-- section.items -->
           </ul>

@@ -17,7 +17,6 @@ where I focus on the automated detection of <a href="https://en.wikipedia.org/wi
 <h3>PROFESSIONAL INTERESTS</h3>
 <p>I am passionate about applying <b>machine learning</b> and <b>statistical approaches</b> to explore <b>big data</b>, especially text data. Broadly, my interests include:</p>
 <ul>
-  <li>Text Mining</li>
   <li>Interpretability and Analysis of Models for NLP</li>
   <li>Explainable Artificial Intelligence (XAI)</li>
 </ul>
