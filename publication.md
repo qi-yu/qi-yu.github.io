@@ -21,13 +21,13 @@ categories:
             pdf: https://aclanthology.org/2022.naacl-srw.5.pdf
             resource: https://github.com/qi-yu/framing-by-presuppositions
             
-      - year: 2021
+      - year: 2022
         items:
           - title: Frame Detection in German Political Discourses&#58; How Far Can We Go Without Large-Scale Manual Corpus Annotation?
             authors: <b>Qi Yu</b> and Anselm Fliethmann
-            year: 2021
-            inbook: Proceedings of 1st Workshop on Computational Linguistics for Political Text Analysis (CPSS)
-            pdf: /assets/pdf/2021_CPSS.pdf
+            year: 2022
+            inbook: Journal for Language Technology and Computational Linguistics, 35(2):15–31
+            pdf: https://jlcl.org/article/view/227/225
             resource: https://github.com/qi-yu/refugees-and-migration-framing-vocabulary
             
       - year: 2021   
