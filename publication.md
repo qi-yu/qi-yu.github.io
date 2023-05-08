@@ -6,10 +6,10 @@ categories:
       - year: 2023 
         items:
           - title: 'The Inner Workings of Language Models in Figurative Language Processing: Linguistically Informed Feature Analyses of Model Behavior' 
-            authors: Hyewon Jang<sup>&#9827;</sup>, <b>Qi Yu</b><sup>&#9827;</sup> and Diego Frassinelli
+            authors: Hyewon Jang<sup>&#9824;</sup>, <b>Qi Yu</b><sup>&#9824;</sup> and Diego Frassinelli
             year: 2023 (forthcoming)
             inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
-            special: "<sup>&#9827;</sup>: equal contribution"
+            special: "<sup>&#9824;</sup>: equal contribution"
             
       - year: 2023 
         items:
