@@ -6,7 +6,7 @@ items:
     description: <i>Linguistic Gaming with Python</i> (Bachelor seminar taught as sole instructor)
     
   - title: Zurich University of Applied Sciences (ZHAW), March 3-4, 2022
-    description: <i>Python for Linguists</i> (PhD seminar taught as sole instructor; content developed from scratch)
+    description: <i>Python for Linguists</i> (PhD workshop taught as sole instructor; content developed from scratch)
   
   - title: University of Konstanz, Winter 2021/22
     description: <i>Linguistic Gaming with Python</i> (Bachelor seminar co-taught with Prof. Miriam Butt)

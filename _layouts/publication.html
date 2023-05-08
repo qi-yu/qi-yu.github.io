@@ -26,9 +26,6 @@
               {% if item.workshop and item.workshop != ""%}
               {{ item.workshop }}.
               {% endif %}
-              {% if item.special and item.special != "" and item.special != nil %}
-                <span class="special">{{ item.special }}</span>
-              {% endif %}
               {% if item.pdf and item.pdf != "" and item.pdf != nil %}
                 <a href="{{ item.pdf }}" target="_blank">[PDF]</a>
               {% endif %}
@@ -37,6 +34,9 @@
               {% endif %}
               {% if item.handout and item.handout != "" and item.handout != nil %}
                 <a href="{{ item.handout }}" target="_blank">[HANDOUT]</a>
+              {% endif %}
+              {% if item.special and item.special != "" and item.special != nil %}
+                <span class="special">{{ item.special }}</span>
               {% endif %}
             <br><br>
             <!--/li-->

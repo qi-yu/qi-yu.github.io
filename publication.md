@@ -5,11 +5,19 @@ categories:
     sections: 
       - year: 2023 
         items:
+          - title: 'The Inner Workings of Language Models in Figurative Language Processing: Linguistically Informed Feature Analyses of Model Behavior' 
+            authors: Hyewon Jang<sup>&#9827;</sup>, <b>Qi Yu</b><sup>&#9827;</sup> and Diego Frassinelli
+            year: 2023 (forthcoming)
+            inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
+            special: "<sup>&#9827;</sup>: equal contribution"
+            
+      - year: 2023 
+        items:
           - title: 'Towards a More In-Depth Detection of Political Framing' 
             authors: <b>Qi Yu</b>
             year: 2023
             inbook: Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
-            pdf: https://sighum.files.wordpress.com/2023/04/shipout-book-apr9.pdf
+            pdf: https://aclanthology.org/2023.latechclfl-1.18.pdf
             resource: https://github.com/qi-yu/topical-and-rhetorical-framing
             
       - year: 2022 
