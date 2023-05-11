@@ -9,6 +9,7 @@ categories:
             authors: Hyewon Jang<sup>&#9824;</sup>, <b>Qi Yu</b><sup>&#9824;</sup> and Diego Frassinelli
             year: 2023 (forthcoming)
             inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
+            resource: https://github.com/CoPsyN/figurative-language-processing
             special: "<sup>&#9824;</sup>: equal contribution listed alphabetically"
             
       - year: 2023 
@@ -102,7 +103,7 @@ categories:
           - title: <em>It's Domain Widening Yet&#58; German nur/bloß as a Marker of Extreme Ignorance Questions</em>
             authors: Regine Eckardt and <b>Qi Yu</b>
             year: 2019
-            workshop: Semantics and Philosophy in Europe" (SPE) 11
+            workshop: Semantics and Philosophy in Europe (SPE) 11
             note: September 20-22. University of Warsaw, Poland
             
 ---

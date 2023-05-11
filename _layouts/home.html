@@ -2,20 +2,29 @@
 <html>
   {% include head.html %}
 
+  <head>
+    <script src="https://kit.fontawesome.com/83b3b408f4.js" crossorigin="anonymous"></script>
+  </head>>
+
   <body>
     {% include header.html %}
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="container">
           <img
             src="{{ page.profile_picture.src | absolute_url }}"
             alt="{{ page.profile_picture.alt }}"
             class="profile-pic"
           />
-
-          {{ content }}
+          <div class="greeting-message">
+            <p>NLP Practioner | Frontend Enthusiast | Digital Painting Enthusiast</p>
+            <h1>Welcome to my homepage!</h1>
+          </div>
         </div>
+      </div>
+      <div class="wrapper">
+            {{ content }}
       </div>
     </div>
 
