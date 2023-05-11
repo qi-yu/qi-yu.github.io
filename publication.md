@@ -10,7 +10,7 @@ categories:
             year: 2023 (forthcoming)
             inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
             resource: https://github.com/CoPsyN/figurative-language-processing
-            special: "<sup>&#9824;</sup>: equal contribution listed alphabetically"
+            special: "<sup>&#9824;</sup>: equal contribution; listed alphabetically"
             
       - year: 2023 
         items:
