@@ -1,6 +1,6 @@
 ---
 layout: teaching
-title: Teaching
+title: TEACHING
 items:
   - title: University of Konstanz, Winter 2022/23
     description: <i>Linguistic Gaming with Python</i> (Bachelor seminar taught as sole instructor)

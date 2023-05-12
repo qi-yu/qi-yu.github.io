@@ -1,7 +1,7 @@
 ---
 layout: publication
 categories:
-  - name: Publications
+  - name: PUBLICATIONS
     sections: 
       - year: 2023 
         items:
@@ -56,7 +56,7 @@ categories:
             note: 58, 7-22
             pdf: /assets/pdf/2020_LB.pdf
       
-  - name: Talks and Posters
+  - name: TALKS AND POSTERS
     sections:
       - year: 2022
         items:
