@@ -6,11 +6,11 @@ categories:
       - year: 2023 
         items:
           - title: 'The Inner Workings of Language Models in Figurative Language Processing: Linguistically Informed Feature Analyses of Model Behavior' 
-            authors: Hyewon Jang<sup>&#9824;</sup>, <b>Qi Yu</b><sup>&#9824;</sup> and Diego Frassinelli
+            authors: Hyewon Jang<sup>&#9733;</sup>, <b>Qi Yu</b><sup>&#9733;</sup> and Diego Frassinelli
             year: 2023 (forthcoming)
             inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
             resource: https://github.com/CoPsyN/figurative-language-processing
-            special: "<sup>&#9824;</sup>: equal contribution; listed alphabetically"
+            special: "<sup>&#9733;</sup>: equal contribution; listed alphabetically"
             
       - year: 2023 
         items:
@@ -35,7 +35,7 @@ categories:
           - title: Frame Detection in German Political Discourses&#58; How Far Can We Go Without Large-Scale Manual Corpus Annotation?
             authors: <b>Qi Yu</b> and Anselm Fliethmann
             year: 2022
-            inbook: Journal for Language Technology and Computational Linguistics, 35(2):15–31
+            inbook: Journal for Language Technology and Computational Linguistics, 35(2)&#58; 15–31
             pdf: https://jlcl.org/article/view/227/225
             resource: https://github.com/qi-yu/refugees-and-migration-framing-vocabulary
             
@@ -52,8 +52,7 @@ categories:
           - title: German <i>bloß</i> Questions as Extreme Ignorance Questions
             authors: Regine Eckardt and <b>Qi Yu</b>
             year: 2020
-            inbook: Linguistica Brunensia 
-            note: 58, 7-22
+            inbook: Linguistica Brunensia, 68(1)&#58; 7-22
             pdf: /assets/pdf/2020_LB.pdf
       
   - name: TALKS AND POSTERS

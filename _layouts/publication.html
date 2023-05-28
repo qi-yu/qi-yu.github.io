@@ -16,7 +16,7 @@
 
           <ul>
           {% for item in section.items %}
-            <!--li-->
+            <!-- li -->
               {{ item.authors }}.
               {{ item.year }}.
               {{ item.title }}.
@@ -38,7 +38,7 @@
               {% if item.special and item.special != "" and item.special != nil %}
                 <span class="special">{{ item.special }}</span>
               {% endif %}
-            <br><br>
+            <br><!--br-->
             <!--/li-->
           {% endfor %} <!-- section.items -->
           </ul>
