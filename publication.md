@@ -5,9 +5,9 @@ categories:
     sections: 
       - year: 2023 
         items:
-          - title: 'The Inner Workings of Language Models in Figurative Language Processing: Linguistically Informed Feature Analyses of Model Behavior' 
+          - title: 'Figurative Language Processing: A Linguistically Informed Feature Analysis of the Behavior of Language Models and Humans'
             authors: Hyewon Jang<sup>&#9733;</sup>, <b>Qi Yu</b><sup>&#9733;</sup> and Diego Frassinelli
-            year: 2023 (forthcoming)
+            year: 2023
             inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
             pdf: https://aclanthology.org/2023.findings-acl.622.pdf
             resource: https://github.com/CoPsyN/figurative-language-processing
@@ -18,7 +18,7 @@ categories:
           - title: 'Towards a More In-Depth Detection of Political Framing' 
             authors: <b>Qi Yu</b>
             year: 2023
-            inbook: Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature
+            inbook: Proceedings of the 7th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature (LaTeCH-CLfL2023)
             pdf: https://aclanthology.org/2023.latechclfl-1.18.pdf
             resource: https://github.com/qi-yu/topical-and-rhetorical-framing
             
@@ -27,7 +27,7 @@ categories:
           - title: '&#34;Again, Dozens of Refugees Drowned&#34;&#58; A Computational Study of Political Framing Evoked by Presuppositions' 
             authors: <b>Qi Yu</b>
             year: 2022
-            inbook: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)&#58; Student Research Workshop
+            inbook: Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics&#58; Human Language Technologies&#58; Student Research Workshop
             pdf: https://aclanthology.org/2022.naacl-srw.5.pdf
             resource: https://github.com/qi-yu/framing-by-presuppositions
             
@@ -45,7 +45,7 @@ categories:
           - title: KonTra at CMCL 2021 Shared Task&#58; Predicting Eye Movements by Combining BERT with Surface, Linguistic and Behavioral Information
             authors: <b>Qi Yu</b>, Aikaterini-Lida Kalouli and Diego Frassinelli
             year: 2021
-            inbook: Proceeding of The 2021 Cognitive Modeling and Computational Linguistics Workshop (CMCL)
+            inbook: Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics
             pdf: https://aclanthology.org/2021.cmcl-1.15.pdf
       
       - year: 2020
@@ -65,6 +65,7 @@ categories:
             year: 2022
             workshop: 9th Experimental Pragmatics Conference (XPRAG 2022)
             note: September 22-23, IUSS Pavia, Italy
+            pdf: https://osf.io/fq69z
             
       - year: 2022 
         items:

@@ -26,6 +26,9 @@
               {% if item.workshop and item.workshop != ""%}
               {{ item.workshop }}.
               {% endif %}
+              {% if item.note and item.note != ""%}
+              {{ item.note }}.
+              {% endif %}
               {% if item.pdf and item.pdf != "" and item.pdf != nil %}
                 <a href="{{ item.pdf }}" target="_blank">[PDF]</a>
               {% endif %}
