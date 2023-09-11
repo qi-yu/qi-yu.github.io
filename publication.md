@@ -58,6 +58,22 @@ categories:
       
   - name: TALKS AND POSTERS
     sections:
+      - year: 2024
+        items:
+          - title: <em>German Modal Particles&#58; A Lens on Framing at the Non-Propositional Level</em>
+            authors: <b>Qi Yu</b>
+            year: 2024 (forthcoming)
+            workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
+            note: February 28 - March 01, Ruhr University Bochum, Germany
+      
+      - year: 2024
+        items:
+          - title: <em>Innovated Compounds, Concepts, and Prototypes&#58; A Road to Framing</em>
+            authors: Regine Eckardt and <b>Qi Yu</b>
+            year: 2024 (forthcoming)
+            workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
+            note: February 28 - March 01, Ruhr University Bochum, Germany
+            
       - year: 2022
         items:
           - title: <em>An experimental study on ad hoc compounds in political discourse</em>
