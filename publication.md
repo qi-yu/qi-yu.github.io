@@ -3,6 +3,13 @@ layout: publication
 categories:
   - name: PUBLICATIONS
     sections: 
+      - year: 2024
+        items:
+          - title: 'GRIT: A Dataset of Group Reference Recognition in Italian'
+            authors: Sergio E. Zanotto, <b>Qi Yu</b>, Miriam Butt and Diego Frassinelli
+            year: 2024 (forthcoming)
+            inbook: "To appear in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation"
+            
       - year: 2023 
         items:
           - title: 'Figurative Language Processing: A Linguistically Informed Feature Analysis of the Behavior of Language Models and Humans'
