@@ -69,7 +69,7 @@ categories:
         items:
           - title: <em>German Modal Particles&#58; A Lens on Framing at the Non-Propositional Level</em>
             authors: <b>Qi Yu</b>
-            year: 2024 (forthcoming)
+            year: 2024
             workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
             note: February 28 - March 01, Ruhr University Bochum, Germany
       
@@ -77,7 +77,7 @@ categories:
         items:
           - title: <em>Innovated Compounds, Concepts, and Prototypes&#58; A Road to Framing</em>
             authors: Regine Eckardt and <b>Qi Yu</b>
-            year: 2024 (forthcoming)
+            year: 2024
             workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
             note: February 28 - March 01, Ruhr University Bochum, Germany
             
