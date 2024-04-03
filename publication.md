@@ -5,9 +5,16 @@ categories:
     sections: 
       - year: 2024
         items:
+          - title: 'Ad Hoc Compounds for Stance Detection'
+            authors: Miriam Butt, <b>Qi Yu</b>, Fabian Schlotterbeck, Hening Wang, Regine Eckardt, Naomi Reichmann and Britta Stolterfoht
+            year: 2024 (to appear)
+            inbook: "To appear in Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)"
+            
+      - year: 2024
+        items:
           - title: 'GRIT: A Dataset of Group Reference Recognition in Italian'
             authors: Sergio E. Zanotto, <b>Qi Yu</b>, Miriam Butt and Diego Frassinelli
-            year: 2024 (forthcoming)
+            year: 2024 (to appear)
             inbook: "To appear in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation"
             
       - year: 2023 
