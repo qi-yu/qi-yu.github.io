@@ -10,7 +10,7 @@ profile_picture:
 <b>University of Konstanz</b>. My current work is part of the project <a href="https://www.exc.uni-konstanz.de/en/inequality/research/projects/framing-inequalities/" target="_blank" rel="noopener noreferrer">Framing Inequalities</a>, 
 where I focus on the automated detection of <a href="https://en.wikipedia.org/wiki/Framing_(social_sciences)" target="_blank" rel="noopener noreferrer">framing</a> in journalistic texts using NLP approaches.</p>
 
-<p style="margin-bottom:1cm;">I received a master's degree in Speech and Language Processing (2019, with a focus on Natural Language Processing) and a master's degree
+<p style="margin-bottom:1cm;">I received a master's degree in Speech and Language Processing (2019, with a focus on NLP) and a master's degree
 in General Linguistics (2020, with a focus on formal semantics) from the University of Konstanz.</p>
 
 

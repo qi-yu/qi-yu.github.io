@@ -20,12 +20,12 @@ categories:
       - year: 2023 
         items:
           - title: 'Figurative Language Processing: A Linguistically Informed Feature Analysis of the Behavior of Language Models and Humans'
-            authors: Hyewon Jang<sup>&#9733;</sup>, <b>Qi Yu</b><sup>&#9733;</sup> and Diego Frassinelli
+            authors: Hyewon Jang<sup>&#9829;</sup>, <b>Qi Yu</b><sup>&#9829;</sup> and Diego Frassinelli
             year: 2023
             inbook: "Findings of the Association for Computational Linguistics: ACL 2023"
             pdf: https://aclanthology.org/2023.findings-acl.622.pdf
             resource: https://github.com/CoPsyN/figurative-language-processing
-            special: "<sup>&#9733;</sup>: equal contribution; listed alphabetically"
+            special: "<sup>&#9829;</sup>: co-first authors; listed alphabetically"
             
       - year: 2023 
         items:
