@@ -22,13 +22,13 @@ header:
 
 footer:
   show_powered_by: true
-  contact:
-    - name: Email
-      value: qi [dot] yu [at] uni-konstanz [dot] de
-      link: mailto:qi.yu@uni-konstanz.de
-  follow:
-    - name: GitHub
-      link: http://github.com/qi-yu
+#  contact:
+#    - name: Email
+#      value: qi [dot] yu [at] uni-konstanz [dot] de
+#      link: mailto:qi.yu@uni-konstanz.de
+#  follow:
+#    - name: GitHub
+#      link: http://github.com/qi-yu
 
 # Build settings
 markdown: kramdown

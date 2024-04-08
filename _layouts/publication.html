@@ -8,12 +8,8 @@
     <div class="page-content">
       <div class="wrapper">
         {% for category in page.categories %}
-          {% if category.name == "PUBLICATIONS" %}
-            <h1 class="page-heading"><i class="fa-solid fa-book" style="padding-right: 0.5rem"></i>{{ category.name }}</h1>
-          {% endif %}
-          {% if category.name == "TALKS AND POSTERS" %}
-            <h1 class="page-heading"><i class="fa-solid fa-chalkboard" style="padding-right: 0.5rem"></i>{{ category.name }}</h1>
-          {% endif %}
+          <h1 class="page-heading"> {{ category.name }} </h1>
+
         {% for section in category.sections %}
         <div class="work">
           <!--h3 {{ section.year }}

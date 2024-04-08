@@ -3,8 +3,8 @@
   {% include head.html %}
 
   <head>
-    <script src="https://kit.fontawesome.com/83b3b408f4.js" crossorigin="anonymous"></script>
-  </head>>
+   <script src="https://kit.fontawesome.com/aa91375426.js" crossorigin="anonymous"></script>
+  </head>
 
   <body>
     {% include header.html %}
@@ -12,18 +12,21 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="container">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profile-pic"
-          />
-          <div class="greeting-message">
-            <!-- p> Enthusiast of Many Different Things: <br>Natural Language Processing / Frontend Development / Digital Painting </p -->
-            <h1>Welcome to my homepage!</h1>
+          <div class="profile-container">
+            <img
+              src="{{ page.profile_picture.src | absolute_url }}"
+              alt="{{ page.profile_picture.alt }}"
+              class="profile-pic"
+            />
+            <div class="greeting-message">
+              <p style="margin-bottom: 0"> Natural Language Processing | Software Development </p>
+  <!--            <h1>Welcome to my homepage!</h1>-->
+              <h2><a href="https://github.com/qi-yu"><i class="fa-brands fa-github"></i></a> |  <a href="mailto:qi.yu@uni-konstanz.de"><i class="fa-solid fa-envelope"></i></a></h2>
+            </div>
           </div>
         </div>
       </div>
-      <div class="wrapper">
+      <div class="wrapper" style="padding-top: 1.5rem">
             {{ content }}
       </div>
     </div>
