@@ -30,16 +30,13 @@
               {{ item.note }}.
               {% endif %}
               {% if item.pdf and item.pdf != "" and item.pdf != nil %}
-                <br><a href="{{ item.pdf }}" target="_blank">[PDF]</a>
+                <a href="{{ item.pdf }}" target="_blank"><i class="fa-solid fa-file-pdf"  style="padding-right: 0.2rem"></i></a>
               {% endif %}
               {% if item.resource and item.resource != "" and item.resource != nil %}
-                <a href="{{ item.resource }}" target="_blank">[CODE]</a>
-              {% endif %}
-              {% if item.handout and item.handout != "" and item.handout != nil %}
-                <a href="{{ item.handout }}" target="_blank">[HANDOUT]</a>
+                <a href="{{ item.resource }}" target="_blank"><i class="fa-solid fa-code"></i></a>
               {% endif %}
               {% if item.special and item.special != "" and item.special != nil %}
-                <span class="special">{{ item.special }}</span>
+                <span class="special"><br>{{ item.special }}</span>
               {% endif %}
             <br><!--br-->
             <!--/li-->
