@@ -6,9 +6,10 @@ categories:
       - year: 2024
         items:
           - title: 'Ad Hoc Compounds for Stance Detection'
-            authors: Miriam Butt, <b>Qi Yu</b>, Fabian Schlotterbeck, Hening Wang, Regine Eckardt, Naomi Reichmann and Britta Stolterfoht
+            authors: <b>Qi Yu</b>, Fabian Schlotterbeck, Hening Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt 
             year: 2024 (to appear)
             inbook: "To appear in Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)"
+            resource: https://github.com/qi-yu/enigmatic-compounds
             
       - year: 2024
         items:
@@ -16,6 +17,7 @@ categories:
             authors: Sergio E. Zanotto, <b>Qi Yu</b>, Miriam Butt and Diego Frassinelli
             year: 2024 (to appear)
             inbook: "To appear in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation"
+            resource: https://github.com/Sergio-E-Zanotto/grit
             
       - year: 2023 
         items:
