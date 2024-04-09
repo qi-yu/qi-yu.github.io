@@ -112,7 +112,7 @@ categories:
           - title: <em>Enigmatic Compounds&#58; How They Act as Source of Attitudinal Meaning</em>
             authors: <b>Qi Yu</b> and Regine Eckardt
             year: 2022
-            workshop: Workshop "Literal and Figurative Meanings of Compounds"
+            workshop: 44th Annual Conference of the German Linguistic Society (DGfS 2022)
             note: Februrary 23-25. University of Tübingen, Germany
             
       - year: 2021

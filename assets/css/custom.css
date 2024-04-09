@@ -67,6 +67,20 @@ ul.subproject {
     border: #255 0px solid
 }
 
+.profile-container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.greeting-message {
+    padding-left: 20px;
+    /*padding-top: 10%;*/
+    float: left;
+    color: #828282;
+  }
+
 /* On mobile devices */
 @media (max-width: 767px) {
   .profile-container {
