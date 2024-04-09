@@ -1,9 +1,11 @@
 .profile-pic {
   width: 30%;
+  height: 30%;
   float: left;
 
   @include media-query($on-mobile) {
     width: 50%;
+    height: 50%;
     float: none;
   }
 }
