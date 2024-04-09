@@ -21,6 +21,6 @@ My interests include:
 <ul>
   <li>Explainable artificial intelligence (XAI) for large-scale text analyses in computational social science</li>
   <li>Statistical modelling and machine learning approaches for sparse design matrices or rare events</li>
-  <li>Analyses examining the behavior patterns of large language models (LLMs)</li>
+  <li>Analysis of the behavior patterns of large language models (LLMs)</li>
 </ul>
 
