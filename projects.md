@@ -7,7 +7,7 @@ items:
     image:
       src: /assets/img/projects/webapp.png
       alt: Rhetorical Framing Explorator
-    description: Earlier NLP studies on framing in journalistic texts tend to oversimplify framing as a mere matter of topic coverage. However, framing is not about <i>what is said</i>, but <i>how things are said</i>. For instance, as readers we sense that these two sentences convey very different attitudes&#58; "The ruling parties do not understand what family means for the refugees" vs. "The ruling parties do not <u>even</u> understand what family means for the refugees". <br><br>However, such nuanced language usage is heavily understudied in NLP. This is partially due to the reason that NLP studies increasingly use black-box models (e.g., LLMs) that do not allow a drilling down into the effects of linguistically meaningful components. I am developing a web App which facilitates the exploration of such subtle linguistic aspects of framing. 
+    description: Earlier NLP studies on framing in journalistic texts often oversimplify framing as a mere matter of topic coverage. However, framing is not about <i>what is said</i>, but <i>how things are said</i>. For instance, as readers we sense that these two sentences convey very different attitudes&#58; "The ruling parties do not understand what family means for the refugees" vs. "The ruling parties do not <u>even</u> understand what family means for the refugees". <br><br>However, such nuanced language usage is heavily understudied in NLP. This is partially due to the reason that NLP studies increasingly use black-box models (e.g., LLMs) that do not allow a drilling down into the effects of linguistically meaningful components. I am developing a web App which facilitates the exploration of such subtle linguistic aspects of framing. 
     resources:
       - name: (under develop)
         code: https://github.com/qi-yu/rhetorical-framing-explorator
@@ -25,11 +25,11 @@ items:
         paper: https://aclanthology.org/2023.findings-acl.622.pdf
         code: https://github.com/CoPsyN/figurative-language-processing      
       
-  - title: Large-Scale Experimental Studies on Coinage Compounds 
+  - title: Large-Scale Experiments on Newly Created Compound Words
     image:
       src: /assets/img/projects/compounds.png
       alt: Coinage Compounds 
-    description: This project is more of a cognitive science (psycholinguistics) nature. The German language is rich of compounds, and new compounds can always be derivated - you might know crazy examples like "Donaudampfschiffahrtsgesellschaftskapitän". In journalism, sometimes authors employ innovate compounds to implicitly convey biased attitudes. <br><br>For instance, what impact on readers' perceptions does it make to call an intern who wears a hijab because of her religious background as "<u>the hijab-intern</u>" (original in German&#58; <u>Kopftuchpraktikantin</u>) instead of "<u>the intern who wears a hijab</u>" (German&#58; <u>kopftuchtragende Praktikantin</u>)? In collaboration with the University of Tübingen, I designed experiments to unravel this. 
+    description: This project is more of a cognitive science (psycholinguistics) nature. The German language is rich of compounds, and new compounds can always be derivated - you might know crazy examples like "Donaudampfschiffahrtsgesellschaftskapitän". In journalism, sometimes authors invent compounds to implicitly convey biased attitudes. <br><br>For instance, what impact on readers' perceptions does it make to call an intern who wears a hijab because of her religious background as "<u>the hijab-intern</u>" (original in German&#58; <u>Kopftuchpraktikantin</u>) instead of "<u>the intern who wears a hijab</u>" (German&#58; <u>kopftuchtragende Praktikantin</u>)? In collaboration with the University of Tübingen, I designed experiments to unravel this. 
     resources: 
       - name: Yu et al. (2024, accepted)
         code: https://github.com/qi-yu/enigmatic-compounds
