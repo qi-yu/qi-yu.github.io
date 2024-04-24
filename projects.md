@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: SELECTED RESEARCH PROJECTS
+title: SELECTED PROJECTS
 slug: /projects
 items:
   - title: Web App <i>Rhetorical Framing Explorator</i>
