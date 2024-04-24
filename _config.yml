@@ -11,8 +11,10 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: About
       slug: /
+    - name: Projects
+      slug: /projects
     - name: Publications & Talks
       slug: /publication
     - name: Teaching
