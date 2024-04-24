@@ -13,17 +13,17 @@ where I focus on the automated detection of <i>framing</i> in journalistic texts
 <p style="margin-bottom:0.5cm;">I received a master's degree in Speech and Language Processing (2019, with a focus on NLP) and a master's degree
 in General Linguistics (2020, with a focus on formal semantics) from the University of Konstanz.</p>
 
-<p style="margin-bottom:0.5cm;"> Earlier, I did my bachelor's degree in Scandinavian Studies (Beijing Foreign Studies University & University of Southern Denmark). 
+<p style="margin-bottom:0.5cm;"> Earlier, I did my bachelor's degree in Scandinavian Studies (Beijing Foreign Studies University, with a one-year exchange at the University of Southern Denmark). 
 This study program was not desired by me at all; at that time, I was a huge fan of several rock/gothic bands from the German-speaking area and wished to study Germanistic linguistics. 
 But in the higher education system at my country, especially contrasted with the German one where I currently reside, there is extremely limited freedom to choose what one wants to study; 
-instead, it is much more crucial to play safe and secure a study place rather than following personal interests.
+instead, it is much more crucial to play safe and secure a study place - no matter what subject - rather than following personal interests.
 
 <p style="margin-bottom:0.5cm;"> But as time passed, I realized my interests in informatics. And my interests in German language still last until today.
 
 <h2 class="page-heading">RESEARCH INTERESTS</h2>
 <p>Broadly, I am passionate about applying <b>machine learning</b> and <b>statistical approaches</b> to explore large-scale datasets, with a particular focus on textual data. 
 
-My interests include:
+Specifically, my interests include:
 <ul>
   <li>Explainable artificial intelligence (XAI) for large-scale text analyses in computational social science</li>
   <li>Statistical modelling and machine learning approaches for sparse design matrices or rare events</li>
