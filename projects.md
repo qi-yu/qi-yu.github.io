@@ -25,7 +25,7 @@ items:
         paper: https://aclanthology.org/2023.findings-acl.622.pdf
         code: https://github.com/CoPsyN/figurative-language-processing      
       
-  - title: Large-Scale Experiments on Newly Created Compound Words
+  - title: Large-Scale Experiments on Compound Neologisms
     image:
       src: /assets/img/projects/compounds.png
       alt: Coinage Compounds 
