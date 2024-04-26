@@ -19,7 +19,7 @@ items:
     image:
       src: /assets/img/projects/llm.png
       alt: Behaviors of LLMs
-    description: LLMs are powerful, but model explainability is also crucial for many use cases - what have they actually learned from the training data and why do they come to a certain decision? For text data, this is especially relevant for complex tasks such as the automated detection of figurative language usage, e.g., sarcasm or metaphor. <br><br> My colleagues and I probe the performance of diverse black-box LLMs and compare them with white-box (explainable) models on the task of figurative language classification. <u>Fun fact&#58;</u> for this probing task, we found that black-box models are not that unexplainable, whereas white-box models are sometimes not really human-interpretable. 
+    description: LLMs are powerful and yields groundbreaking results, but model explainability is also crucial for many use cases&#58; what have they actually learned from the training data and why do they come to a certain decision? For text data, this is especially relevant for complex tasks such as the automated detection of figurative language usage, e.g., sarcasm or metaphor. <br><br> My colleagues and I probe the performance of diverse black-box LLMs and compare them with white-box (explainable) models on the task of figurative language classification. <u>Fun fact&#58;</u> for this probing task, we found that black-box models are not that unexplainable, whereas white-box models are sometimes not really human-interpretable. 
     resources:
       - name: Yu (2023)
         paper: https://aclanthology.org/2023.findings-acl.622.pdf
