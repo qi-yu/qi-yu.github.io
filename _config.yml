@@ -21,6 +21,8 @@ header:
       slug: /teaching
     - name: Paintings
       slug: /horcrux
+    - name: Maybe Funny
+      slug: /miscellaneous
 
 footer:
   show_powered_by: true

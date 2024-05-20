@@ -15,8 +15,9 @@ categories:
         items:
           - title: 'GRIT: A Dataset of Group Reference Recognition in Italian'
             authors: Sergio E. Zanotto, <b>Qi Yu</b>, Miriam Butt and Diego Frassinelli
-            year: 2024 (to appear)
-            inbook: "To appear in Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation"
+            year: 2024
+            inbook: "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation"
+            pdf: https://aclanthology.org/2024.lrec-main.701.pdf
             resource: https://github.com/Sergio-E-Zanotto/grit
             
       - year: 2023 
