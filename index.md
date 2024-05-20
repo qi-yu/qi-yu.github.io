@@ -14,7 +14,7 @@ where I focus on the automated detection of <i>framing</i> in journalistic texts
 in General Linguistics (2020, with a focus on formal semantics) from the University of Konstanz.</p>
 
 <p style="margin-bottom:0.5cm;"> Earlier, I completed my bachelor's degree in Scandinavian Studies (Beijing Foreign Studies University, with a one-year state-funded exchange at the University of Southern Denmark). 
-As this is a very unusual study program which only accepts around 15 new students every four years, I was often asked why I made this choice. 
+As it is very unusual to study Scandinavian Studies in China (also, this study program which only accepts around 15 new students every four years), I was often asked why I made this choice. 
 Honestly, this was not desired by me at all: I rather wished to study German linguistics due to my fascination with several rock/gothic bands from the German-speaking region at that time. 
 But in the higher education system at my country, especially contrasted with the German one where I currently reside, there is extremely limited freedom to choose the field of study or switch the study program. 
 Instead, the priority was to play safe and secure a study place at any of the prestigious universities - no matter for which subject - rather than to follow personal interests.
