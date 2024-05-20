@@ -16,8 +16,8 @@ items:
 
   - title: Things I like...
     descriptions:
-      - name: Drawing fan arts (see a collection <a href="https://qi-yu.github.io/horcrux/">here</a>)
-      - name: I'm not really a fan of literature, but I have a strong fondness of poems and lyrics <br>My favorite poets? <a href="https://en.wikipedia.org/wiki/Yuan_Zhen">Yuan Zhen</a> (779-821); <a href="https://en.wikipedia.org/wiki/Jiang_Kui">Jiang Kui</a> (1155-1221) 
+      - name: Drawing fan arts (see a collection <a href="https://qi-yu.github.io/horcrux/" target="_blank">here</a>)
+      - name: I'm not really a fan of literature, but I have a strong fondness of poems and lyrics <br>My favorite poets? <a href="https://en.wikipedia.org/wiki/Yuan_Zhen" target="_blank">Yuan Zhen</a> (779-821); <a href="https://en.wikipedia.org/wiki/Jiang_Kui" target="_blank">Jiang Kui</a> (1155-1221) 
       - name: Making my presentation slides and plots as colorful as possible
       - name: Simple language&#58; I always attempt to formulate my presentations and papers in simple plain language, even if it sometimes might not work. I dislike when people use jargons and complex sentences to make their content looking more important.
       - name: Buffet&#58; If you've read this far, you've probably already guessed that I love to eat. Yep, I eat a lot, even if my body figure does not indicate this.
