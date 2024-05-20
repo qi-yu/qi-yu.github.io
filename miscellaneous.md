@@ -12,7 +12,7 @@ items:
   - title: Some German vocabularies coined by me
     descriptions:
       - name: <b><i>Leckerhunger</i></b> (uncountable noun; literally "Yummy-Hunger")&#58; It describes the situation at meal time that you are actually full, but the food is so tasty that you still want to eat one more bite, and one more, and one more.
-      - name: <b><i>Käsehunger</i></b> (uncountable noun; literally "Cheese-Hunger")&#58; I'm so often attacked by strong longing for cheese. I thought I need a word to describe this feeling.
+      - name: <b><i>Käsehunger</i></b> (uncountable noun; literally "Cheese-Hunger")&#58; I'm so often attacked by a strong longing for cheese. I thought I need a word to describe this feeling.
 
   - title: Things I like...
     descriptions:
