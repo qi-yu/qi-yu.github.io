@@ -7,8 +7,9 @@ categories:
         items:
           - title: 'Ad Hoc Compounds for Stance Detection'
             authors: <b>Qi Yu</b>, Fabian Schlotterbeck, Hening Wang, Naomi Reichmann, Britta Stolterfoht, Regine Eckardt and Miriam Butt 
-            year: 2024 (to appear)
-            inbook: "To appear in Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)"
+            year: 2024
+            inbook: "Proceedings of the Joint Workshop on Multiword Expressions and Universal Dependencies (MWE-UD 2024)"
+            pdf: https://aclanthology.org/2024.mwe-1.27.pdf
             resource: https://github.com/qi-yu/enigmatic-compounds
             
       - year: 2024

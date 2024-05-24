@@ -14,7 +14,7 @@ items:
       - name: <b><i>Leckerhunger</i></b> (uncountable noun; literally "Yummy-Hunger")&#58; It describes the situation at meal time that you are actually full, but the food is so tasty that you still want to eat one more bite, and one more, and one more.
       - name: <b><i>Käsehunger</i></b> (uncountable noun; literally "Cheese-Hunger")&#58; I'm so often attacked by a strong longing for cheese. I thought I need a word to describe this feeling - after all, if the German language even has words for every teeny-weeny such as "<a href="https://en.wiktionary.org/wiki/Kummerspeck" target="_blank">Kummerspeck</a>" and "<a href="https://en.wiktionary.org/wiki/Vorfreude" target="_blank">Vorfreude</a>", why not just invent one for this?
 
-  - title: Some hobbies, or rather quirks...
+  - title: Some things I like / some quirks of mine...
     descriptions:
       - name: Drawing fan arts (What's my favorite motive? See <a href="https://qi-yu.github.io/horcrux/" target="_blank">here</a>)
       - name: Poems by <a href="https://en.wikipedia.org/wiki/Yuan_Zhen" target="_blank">Yuan Zhen</a> (779-821) and lyrics by <a href="https://en.wikipedia.org/wiki/Jiang_Kui" target="_blank">Jiang Kui</a> (1155-1221), even if I'm not really a fan of literature
