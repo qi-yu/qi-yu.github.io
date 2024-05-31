@@ -31,6 +31,7 @@ items:
       alt: Coinage Compounds 
     description: This project is more of a cognitive science (psycholinguistics) nature. The German language is rich of compounds, and new compounds can always be derivated - you might know crazy examples like "Donaudampfschiffahrtsgesellschaftskapitän". In journalism, sometimes authors invent compounds to implicitly convey biased attitudes. <br><br>For instance, what impact on readers' perceptions does it make to call an intern who wears a hijab because of her religious background as "<u>the hijab-intern</u>" (original in German&#58; <u>Kopftuchpraktikantin</u>) instead of "<u>the intern who wears a hijab</u>" (German&#58; <u>kopftuchtragende Praktikantin</u>)? In collaboration with the University of Tübingen, I designed experiments to unravel this. 
     resources: 
-      - name: Yu et al. (2024, accepted)
+      - name: Yu et al. (2024)
+        paper: https://aclanthology.org/2024.mwe-1.27.pdf
         code: https://github.com/qi-yu/enigmatic-compounds
 ---
