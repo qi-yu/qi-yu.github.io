@@ -4,26 +4,58 @@
 
   <body>
     {% include header.html %}
-
     <div class="page-content">
       <div class="wrapper">
         <h1 class="page-heading">{{ page.title }}</h1>
         <div class="work">
-          {% for item in page.items %}
-          <span class="headspan">{{ item.title }}<br></span>
-            {% for description in item.descriptions %}
-            <ul>
-              <li>{{ description.name }}</li>
-            </ul>
+          {% if page.items %}
+            {% for item in page.items %}
+              <div class="item">
+                <span class="unfoldable">
+                    <span class="triangle"></span>
+                  <u>{{ item.title }}</u>
+                </span>
+                <div class="description" style="display: none;">
+                  {% if item.descriptions %}
+                    <ul class="description-list">
+                      {% for description in item.descriptions %}
+                        <li>{{ description.name }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% else %}
+                    <p>No descriptions available.</p>
+                  {% endif %}
+                </div>
+              </div>
             {% endfor %}
-          {% endfor %} <!-- page.items -->
+          {% else %}
+            <p>No items available.</p>
+          {% endif %}
         </div>
       </div>
     </div>
-
     {% include footer.html %}
-
     {% include foot.html %}
 
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const items = document.querySelectorAll('.item');
+        items.forEach(item => {
+          const unfoldable = item.querySelector('.unfoldable');
+          const description = item.querySelector('.description');
+          const triangle = unfoldable.querySelector('.triangle');
+
+          unfoldable.addEventListener('click', function() {
+            if (description.style.display === 'none' || description.style.display === '') {
+              description.style.display = 'block';
+              triangle.classList.add('triangle-rotate');
+            } else {
+              description.style.display = 'none';
+              triangle.classList.remove('triangle-rotate');
+            }
+          });
+        });
+      });
+    </script>
   </body>
 </html>

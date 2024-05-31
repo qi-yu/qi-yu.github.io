@@ -76,10 +76,43 @@ ul.subproject {
 
 .greeting-message {
     padding-left: 20px;
-    /*padding-top: 10%;*/
     float: left;
     color: #828282;
   }
+
+.item {
+    margin-bottom: 2rem;
+  }
+
+.unfoldable {
+    background-color: #f0f0f0;
+    font-weight: 700;
+    font-size: 12pt;
+    padding: 0.5em;
+}
+
+.unfoldable:hover {
+  cursor: pointer;
+}
+
+.triangle {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 8px solid #808B96;
+  margin-right: 5px;
+  transition: transform 0.3s ease-out;
+}
+
+.triangle-rotate {
+  transform: rotate(90deg);
+}
+
+.description-list {
+    margin-top: 1em;
+}
 
 /* On mobile devices */
 @media (max-width: 767px) {
