@@ -15,9 +15,8 @@ profile_picture:
 <hr>
 
 <p>From March 2020 to May 2024, I worked as a doctoral researcher in natural language processing (NLP) at the Cluster of Excellence "The Politics of Inequality", 
-University of Konstanz. My work was part of the project "<a href="https://www.exc.uni-konstanz.de/en/inequality/research/projects/framing-inequalities/" target="_blank" rel="noopener noreferrer">Framing Inequalities</a>", 
-where I developed NLP solutions for the automated detection of framing strategies in journalistic texts.
-Being passionate about applying <b>machine learning</b> and <b>statistical approaches</b> to explore large-scale datasets (with a focus on textual data), my research interests broadly included: </p>
+University of Konstanz. During this time, I developed <b>machine learning and statistical solutions</b> for the automated detection of framing strategies in journalistic texts.
+Broadly, my research interests included: </p>
 
 <ul>
   <li>Explainable artificial intelligence (XAI) for large-scale text analyses in social sciences</li>
