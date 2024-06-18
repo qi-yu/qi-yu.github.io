@@ -7,10 +7,11 @@ profile_picture:
 
 <h2 class="page-heading">ABOUT ME</h2>
 
-🆕 I'm glad and honored to announce that in July 2024, I will: 
+🆕 I'm extremely glad and honored to announce that in July 2024, I will: 
+
 <ul>
-<li><b>submit my dissertation</b>, and...</li> 
-<li><b>join <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Integrated Systems</a> as a software developer.</b></li>
+<li><b>submit my dissertation</b>, with my defense scheduled in October. And...</li> 
+<li><b>join <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Integrated Systems</a> as a software developer.</b> Having been deeply interested in software development for a long time, now I am eagerly looking forward to my new role and all the completely new challenges it brings. </li>
 </ul>
 
 
