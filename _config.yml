@@ -13,7 +13,7 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Projects
+    - name: Research Projects
       slug: /projects
     - name: Publications & Talks
       slug: /publication
