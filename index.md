@@ -7,7 +7,7 @@ profile_picture:
 
 <h2 class="page-heading">ABOUT ME</h2>
 
-🆕 I'm extremely glad and honored to announce that in July 2024, I will: 
+🆕 I'm extremely glad to announce that in July 2024, I will: 
 
 <ul>
 <li><b>submit my dissertation</b>, with my defense scheduled in October. And...</li> 
