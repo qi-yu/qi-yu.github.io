@@ -9,7 +9,7 @@ profile_picture:
 
 <ul>
 <li><b>submit my dissertation</b>, and...</li> 
-<li><b>join <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Integrated Systems</a> as a software developer 💙💜.</b> Having been deeply interested in software development for quite a while, I am now eagerly looking forward to my new role and all the challenges this completely new world will bring. </li>
+<li><b>join <a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a> as a software developer 💙💜.</b> Having been deeply interested in software development for quite a while, I am now eagerly looking forward to my new role and all the challenges this completely new world will bring. </li>
 </ul>
 
 <hr>
