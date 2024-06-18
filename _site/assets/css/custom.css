@@ -84,14 +84,14 @@ ul.subproject {
     margin-bottom: 2rem;
   }
 
-.unfoldable {
+.accordion {
     background-color: #f0f0f0;
     font-weight: 700;
     font-size: 12pt;
     padding: 0.5em;
 }
 
-.unfoldable:hover {
+.accordion:hover {
   cursor: pointer;
 }
 
@@ -110,8 +110,17 @@ ul.subproject {
   transform: rotate(90deg);
 }
 
-.description-list {
+.description {
+    display: none;
     margin-top: 1em;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin-bottom: 1.5rem;
 }
 
 /* On mobile devices */

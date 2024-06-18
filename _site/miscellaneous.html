@@ -130,13 +130,13 @@
           
             
               <div class="item">
-                <span class="unfoldable">
+                <span class="accordion">
                     <span class="triangle"></span>
                   <u>Some unofficial titles I have given to myself, or been given by people close to me...</u>
                 </span>
-                <div class="description" style="display: none;">
+                <div class="description">
                   
-                    <ul class="description-list">
+                    <ul>
                       
                         <li><b><i>🍝 Nudelbeauftragte</i></b> <u>"Noodle Commissioner"</u>&#58; A title my partner gave me. Whenever we cook spaghetti or pasta, my primary responsibility is to regularly stir the noodles so that they don't stick to the bottom of the pot. I found the importance of this task too underestimated; every kitchen should have a <i>Nudelbeauftragte</i> so that one always has perfectly cooked noodles. In my opinion, it is more crucial and substantial than many research works.</li>
                       
@@ -150,13 +150,13 @@
               </div>
             
               <div class="item">
-                <span class="unfoldable">
+                <span class="accordion">
                     <span class="triangle"></span>
                   <u>Some German vocabularies coined by me...</u>
                 </span>
-                <div class="description" style="display: none;">
+                <div class="description">
                   
-                    <ul class="description-list">
+                    <ul>
                       
                         <li><b><i>Leckerhunger</i></b> (uncountable noun; literally "Yummy-Hunger")&#58; It describes the situation at meal time that you are actually full, but the food is so tasty that you still want to eat one more bite, and one more, and one more.</li>
                       
@@ -168,13 +168,13 @@
               </div>
             
               <div class="item">
-                <span class="unfoldable">
+                <span class="accordion">
                     <span class="triangle"></span>
                   <u>Some things I like / some quirks of mine...</u>
                 </span>
-                <div class="description" style="display: none;">
+                <div class="description">
                   
-                    <ul class="description-list">
+                    <ul>
                       
                         <li>🎨 Drawing fan arts&#58; <br> What's my favorite motive? See <a href="https://qi-yu.github.io/horcrux/" target="_blank">here</a>.</li>
                       
@@ -232,25 +232,6 @@
 <script type="text/javascript" src="http://localhost:4000/assets/js/site.js"></script>
 
 
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const items = document.querySelectorAll('.item');
-        items.forEach(item => {
-          const unfoldable = item.querySelector('.unfoldable');
-          const description = item.querySelector('.description');
-          const triangle = unfoldable.querySelector('.triangle');
-
-          unfoldable.addEventListener('click', function() {
-            if (description.style.display === 'none' || description.style.display === '') {
-              description.style.display = 'block';
-              triangle.classList.add('triangle-rotate');
-            } else {
-              description.style.display = 'none';
-              triangle.classList.remove('triangle-rotate');
-            }
-          });
-        });
-      });
-    </script>
+    <script src="../assets/js/accordion.js"></script>
   </body>
 </html>

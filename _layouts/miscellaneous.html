@@ -12,13 +12,13 @@
           {% if page.items %}
             {% for item in page.items %}
               <div class="item">
-                <span class="unfoldable">
+                <span class="accordion">
                     <span class="triangle"></span>
                   <u>{{ item.title }}</u>
                 </span>
-                <div class="description" style="display: none;">
+                <div class="description">
                   {% if item.descriptions %}
-                    <ul class="description-list">
+                    <ul>
                       {% for description in item.descriptions %}
                         <li>{{ description.name }}</li>
                       {% endfor %}
@@ -38,25 +38,6 @@
     {% include footer.html %}
     {% include foot.html %}
 
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        const items = document.querySelectorAll('.item');
-        items.forEach(item => {
-          const unfoldable = item.querySelector('.unfoldable');
-          const description = item.querySelector('.description');
-          const triangle = unfoldable.querySelector('.triangle');
-
-          unfoldable.addEventListener('click', function() {
-            if (description.style.display === 'none' || description.style.display === '') {
-              description.style.display = 'block';
-              triangle.classList.add('triangle-rotate');
-            } else {
-              description.style.display = 'none';
-              triangle.classList.remove('triangle-rotate');
-            }
-          });
-        });
-      });
-    </script>
+    <script src="../assets/js/accordion.js"></script>
   </body>
 </html>
