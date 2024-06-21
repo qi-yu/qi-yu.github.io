@@ -10,7 +10,7 @@ profile_picture:
 <ul>
 <li><b>submit my dissertation</b>, and...</li> 
 <li><b>join <a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a> as a software developer 💙💜.</b> 
-I will be based in <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Integrated Systems</a> in Konstanz. <br>
+I will be based in <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Integrated Systems</a> in Konstanz, sitting at the beautiful Rhine. <br>
 The transition from data science to software development isn't new to me, 
 but I'm still eagerly looking forward to the changes and challenges this completely different professional life will bring.
 </li>
