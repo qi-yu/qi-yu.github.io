@@ -18,12 +18,8 @@ but I'm still eagerly looking forward to the changes and challenges this complet
 
 <hr>
 
-<p>From March 2020 to May 2024, I worked as a doctoral researcher in natural language processing (NLP) at the Cluster of Excellence "The Politics of Inequality", 
-University of Konstanz. During this time, I developed <b>machine learning and statistical solutions</b> for the automated detection of framing strategies in journalistic texts.
-Broadly, my research interests included: </p>
+<p>From March 2020 to May 2024, I worked as an academic staff member in <b>natural language processing (NLP)</b> at the Cluster of Excellence "The Politics of Inequality", 
+University of Konstanz. During this time, I developed <b>machine learning and statistical solutions</b> for the automated detection of framing strategies in journalistic texts. 
+My dissertation, which will be defended in October, also focuses on automated framing detection. 
+See the tabs <a href="https://qi-yu.github.io/projects">Research Projects</a> and <a href="https://qi-yu.github.io/publication">Publications & Talks</a> for a detailed collection of my research outputs.
 
-<ul>
-  <li>Explainable artificial intelligence (XAI) for large-scale text analyses in social sciences</li>
-  <li>Statistical modelling and machine learning approaches for sparse design matrices or rare events</li>
-  <li>Analysis of the behavior patterns of large language models (LLMs)</li>
-</ul>
