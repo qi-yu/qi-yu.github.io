@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Since July 2024, I joined <a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a> as a <b>software developer</b> 💙💜.
+In July 2024, I joined <a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a> as a <b>software developer</b> 💙💜.
 I'm based in <b><a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Integrated Systems</a></b> in Konstanz (at the beautiful Rhine). <br>
 The transition from data science to software development isn't new to me, 
 but I'm still eagerly looking forward to the changes and challenges this completely different professional life will bring.
