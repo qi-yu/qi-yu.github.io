@@ -140,6 +140,5 @@ categories:
             year: 2019
             workshop: Semantics and Philosophy in Europe (SPE) 11
             note: September 20-22. University of Warsaw, Poland
-            
 ---
 

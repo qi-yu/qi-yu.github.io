@@ -17,12 +17,14 @@ header:
       slug: /projects
     - name: Publications & Talks
       slug: /publication
-    - name: Teaching
-      slug: /teaching
+#    - name: Teaching
+#      slug: /teaching
     - name: Paintings
       slug: /horcrux
     - name: Maybe Funny
       slug: /miscellaneous
+    - name: Qi's Chat
+      slug: /blog
 
 footer:
   show_powered_by: true
