@@ -21,10 +21,10 @@ header:
 #      slug: /teaching
     - name: Paintings
       slug: /horcrux
+    - name: Qi's Random Chat
+      slug: /blog
     - name: Maybe Funny
       slug: /miscellaneous
-    - name: Qi's Chat
-      slug: /blog
 
 footer:
   show_powered_by: true

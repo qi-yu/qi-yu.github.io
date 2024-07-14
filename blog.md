@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: BLOG
+title: QI'S RANDOM CHAT
 slug: /blog
 ---
 
