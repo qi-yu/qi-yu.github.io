@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-I am a <b>software developer</b> at <a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a> since July 2024. 💙💜<br>
+I am a <b>software developer</b> at <a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a> (since July 2024). 💙💜<br>
 I'm based at <b><a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Software Solutions</a></b> in Konstanz, located along the beautiful Rhine River. <br>
 </p>
 
