@@ -15,13 +15,13 @@ header:
       slug: /
     - name: Research Projects
       slug: /projects
-    - name: Publications & Talks
+    - name: Publications
       slug: /publication
 #    - name: Teaching
 #      slug: /teaching
     - name: Paintings
       slug: /horcrux
-    - name: Qi's Random Chat
+    - name: Qi's Ramble
       slug: /blog
     - name: Maybe Funny
       slug: /miscellaneous

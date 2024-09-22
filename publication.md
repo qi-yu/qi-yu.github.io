@@ -74,71 +74,71 @@ categories:
             inbook: Linguistica Brunensia, 68(1)&#58; 7-22
             pdf: /assets/pdf/2020_LB.pdf
       
-  - name: TALKS AND POSTERS
-    sections:
-      - year: 2024
-        items:
-          - title: <em>German Modal Particles&#58; A Lens on Framing at the Non-Propositional Level</em>
-            authors: <b>Qi Yu</b>
-            year: 2024
-            workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
-            note: February 28 - March 01, Ruhr University Bochum, Germany
-      
-      - year: 2024
-        items:
-          - title: <em>Innovated Compounds, Concepts, and Prototypes&#58; A Road to Framing</em>
-            authors: Regine Eckardt and <b>Qi Yu</b>
-            year: 2024
-            workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
-            note: February 28 - March 01, Ruhr University Bochum, Germany
-            
-      - year: 2022
-        items:
-          - title: <em>An experimental study on ad hoc compounds in political discourse</em>
-            authors: <b>Qi Yu</b>, Fabian Schlotterbeck, Regine Eckardt, and Britta Stolterfoht
-            year: 2022
-            workshop: 9th Experimental Pragmatics Conference (XPRAG 2022)
-            note: September 22-23, IUSS Pavia, Italy
-            pdf: https://osf.io/fq69z
-            
-      - year: 2022 
-        items:
-          - title: <em>Stance marking and register differences in newspaper articles</em>
-            authors: Regine Eckardt and <b>Qi Yu</b>
-            year: 2022
-            workshop: Workshop "Metaphors and stance markers in register variation (MeStaR)"
-            note: June 16-17. Humboldt University of Berlin, Germany
-          
-      - year: 2022 
-        items:
-          - title: <em>Enigmatic Compounds&#58; How They Act as Source of Attitudinal Meaning</em>
-            authors: <b>Qi Yu</b> and Regine Eckardt
-            year: 2022
-            workshop: 44th Annual Conference of the German Linguistic Society (DGfS 2022)
-            note: Februrary 23-25. University of Tübingen, Germany
-            
-      - year: 2021
-        items:
-          - title: <em>Compound-Coinages as Sources of Attitudinal Meaning</em>
-            authors: <b>Qi Yu</b>
-            year: 2021
-            workshop: 17th International Pragmatics Conference (IPrA)
-            note: June 27-July 2. Zurich University of Applied Sciences, Switzerland
-
-      - year: 2020
-        items:
-          - title: <em>Enigmatic Compounds as Probes of Common Ground&#58; BILD and Other Media</em>
-            authors: Regine Eckardt and <b>Qi Yu</b>
-            year: 2020
-            workshop: Workshop "Common Ground in Literary Communication”
-            note: November 20. University of Tübingen, Germany
-            
-      - year: 2019
-        items:
-          - title: <em>It's Domain Widening Yet&#58; German nur/bloß as a Marker of Extreme Ignorance Questions</em>
-            authors: Regine Eckardt and <b>Qi Yu</b>
-            year: 2019
-            workshop: Semantics and Philosophy in Europe (SPE) 11
-            note: September 20-22. University of Warsaw, Poland
+#  - name: TALKS AND POSTERS
+#    sections:
+#      - year: 2024
+#        items:
+#          - title: <em>German Modal Particles&#58; A Lens on Framing at the Non-Propositional Level</em>
+#            authors: <b>Qi Yu</b>
+#            year: 2024
+#            workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
+#            note: February 28 - March 01, Ruhr University Bochum, Germany
+#      
+#      - year: 2024
+#        items:
+#          - title: <em>Innovated Compounds, Concepts, and Prototypes&#58; A Road to Framing</em>
+#            authors: Regine Eckardt and <b>Qi Yu</b>
+#            year: 2024
+#            workshop: 46th Annual Conference of the German Linguistic Society (DGfS 2024)
+#            note: February 28 - March 01, Ruhr University Bochum, Germany
+#            
+#      - year: 2022
+#        items:
+#          - title: <em>An experimental study on ad hoc compounds in political discourse</em>
+#            authors: <b>Qi Yu</b>, Fabian Schlotterbeck, Regine Eckardt, and Britta Stolterfoht
+#            year: 2022
+#            workshop: 9th Experimental Pragmatics Conference (XPRAG 2022)
+#            note: September 22-23, IUSS Pavia, Italy
+#            pdf: https://osf.io/fq69z
+#            
+#      - year: 2022 
+#        items:
+#          - title: <em>Stance marking and register differences in newspaper articles</em>
+#            authors: Regine Eckardt and <b>Qi Yu</b>
+#            year: 2022
+#            workshop: Workshop "Metaphors and stance markers in register variation (MeStaR)"
+#            note: June 16-17. Humboldt University of Berlin, Germany
+#          
+#      - year: 2022 
+#        items:
+#          - title: <em>Enigmatic Compounds&#58; How They Act as Source of Attitudinal Meaning</em>
+#            authors: <b>Qi Yu</b> and Regine Eckardt
+#            year: 2022
+#            workshop: 44th Annual Conference of the German Linguistic Society (DGfS 2022)
+#            note: Februrary 23-25. University of Tübingen, Germany
+#            
+#      - year: 2021
+#        items:
+#          - title: <em>Compound-Coinages as Sources of Attitudinal Meaning</em>
+#            authors: <b>Qi Yu</b>
+#            year: 2021
+#            workshop: 17th International Pragmatics Conference (IPrA)
+#            note: June 27-July 2. Zurich University of Applied Sciences, Switzerland
+#
+#      - year: 2020
+#        items:
+#          - title: <em>Enigmatic Compounds as Probes of Common Ground&#58; BILD and Other Media</em>
+#            authors: Regine Eckardt and <b>Qi Yu</b>
+#            year: 2020
+#            workshop: Workshop "Common Ground in Literary Communication”
+#            note: November 20. University of Tübingen, Germany
+#            
+#      - year: 2019
+#        items:
+#          - title: <em>It's Domain Widening Yet&#58; German nur/bloß as a Marker of Extreme Ignorance Questions</em>
+#            authors: Regine Eckardt and <b>Qi Yu</b>
+#            year: 2019
+#            workshop: Semantics and Philosophy in Europe (SPE) 11
+#            note: September 20-22. University of Warsaw, Poland
 ---
 
