@@ -9,11 +9,8 @@ items:
       alt: Rhetorical Framing Explorator
     description: Earlier NLP studies on framing in journalistic texts often oversimplify framing as a mere matter of topic coverage. However, framing is not about <i>what is said</i>, but <i>how things are said</i>. For instance, as readers we sense that these two sentences convey very different attitudes&#58; "The ruling parties do not understand what family means for the refugees" vs. "The ruling parties do not <u>even</u> understand what family means for the refugees". <br><br>However, such nuanced language usage is heavily understudied in NLP. This is partially due to the reason that NLP studies increasingly use black-box models (e.g., LLMs) that do not allow a drilling down into the effects of linguistically meaningful components. I am developing a web App which facilitates the exploration of such subtle linguistic aspects of framing. 
     resources:
-      - name: (under develop)
+      - name:
         code: https://github.com/qi-yu/rhetorical-framing-explorator
-      - name: ; see an older version without UI in Yu (2023) 
-        paper: https://aclanthology.org/2023.latechclfl-1.18.pdf
-        code: https://github.com/qi-yu/topical-and-rhetorical-framing
 
   - title: Examining Behaviors of Large Language Models
     image:
