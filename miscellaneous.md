@@ -16,9 +16,9 @@ items:
 
   - title: Some things I like / some quirks of mine...
     descriptions:
-      - name: 🎨 Drawing fan arts&#58; <br> What's my favorite motive? See <a href="https://qi-yu.github.io/horcrux/" target="_blank">here</a>.
-      - name: 🎸 Rock / metal / goth / punk music&#58; <br> My favorite bands? <i>Nightwish / Guns n' Roses / Metallica / Rammstein / Death in June / Sopor Aeternus / L’Âme Immortelle</i> <br> Recently became a fan of the Taiwanese band <a href="https://en.wikipedia.org/wiki/Collage_(Taiwanese_duo)#:~:text=Collage%20(Chinese%3A%20珂拉琪,who%20is%20of%20Minnan%20descent." target="_blank"><i>Collage</i></a>.
-      - name: 📜 Poems by <a href="https://en.wikipedia.org/wiki/Yuan_Zhen" target="_blank"><i>Yuan Zhen</i></a> (779-831) and lyrics by <a href="https://en.wikipedia.org/wiki/Jiang_Kui" target="_blank"><i>Jiang Kui</i></a> (1155-1221), even if I'm not particularly a fan of literature.
-      - name: 🏟️ Football&#58; I'm a very new football fan, having just gotten into this sport during the European Championship 2024. Let's see how long my passion holds! <br> My favorite players so far? <i>Leroy Sané / Robert Lewandowski</i> 
-      - name: 🍽️ Buffet&#58; If you've read this far, you've probably already guessed that I love to eat. Yep, I eat a lot, even if my body figure might not indicate this.
+      - name: 🎨 <b>Drawing fan arts&#58;</b> <br> What's my favorite motive? See <a href="https://qi-yu.github.io/horcrux/" target="_blank">here</a>.
+      - name: 🎸 <b>Rock / metal / goth / punk music&#58;</b> <br> My favorite bands? <i>Nightwish / Guns n' Roses / Metallica / Rammstein / Death in June / Sopor Aeternus / L’Âme Immortelle</i> <br> Recently became a fan of the Taiwanese band <a href="https://en.wikipedia.org/wiki/Collage_(Taiwanese_duo)#:~:text=Collage%20(Chinese%3A%20珂拉琪,who%20is%20of%20Minnan%20descent." target="_blank"><i>Collage</i></a>.
+      - name: ⚽️ <b>Football&#58;</b> I got into this sport during the European Championship 2024. <br> My favorite players so far? <i>Leroy Sané / Robert Lewandowski</i> 
+      - name: 📜 <b>Poems</b> by <a href="https://en.wikipedia.org/wiki/Yuan_Zhen" target="_blank"><i>Yuan Zhen</i></a> (779-831) and lyrics by <a href="https://en.wikipedia.org/wiki/Jiang_Kui" target="_blank"><i>Jiang Kui</i></a> (1155-1221), even if I'm not particularly a fan of literature.
+      - name: 🍽️ <b>Buffet&#58;</b> If you've read this far, you've probably already guessed that I love to eat. Yep, I eat a lot, even if my body figure might not indicate this.
 ---

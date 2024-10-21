@@ -1,16 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-06T17:26:17+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Qi Yu</title><subtitle>Qi Yu's homepage</subtitle><entry><title type="html">“Lern doch was gescheites”</title><link href="http://localhost:4000/2024/09/21/lern-doch-was-gescheites.html" rel="alternate" type="text/html" title="“Lern doch was gescheites”" /><published>2024-09-21T00:00:00+02:00</published><updated>2024-09-21T00:00:00+02:00</updated><id>http://localhost:4000/2024/09/21/lern-doch-was-gescheites</id><content type="html" xml:base="http://localhost:4000/2024/09/21/lern-doch-was-gescheites.html">&lt;p&gt;&lt;b&gt;Während meiner Schulzeit hat meine Familie oft meine Berufsvorstellung mit dem Satz „Lern doch was gescheites“ angegriffen, wenn ich was Schul-irrelevantes lernen wollte. Bald werde ich die erste Akademikerin der Familie und sie dürfen davon ausgehen, dass ich einen Haufen gescheiter Zeugs gelernt habe.&lt;/b&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-21T21:32:11+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Qi Yu</title><subtitle>Qi Yu's homepage</subtitle><entry><title type="html">“Lern doch was gescheites”</title><link href="http://localhost:4000/2024/09/21/lern-doch-was-gescheites.html" rel="alternate" type="text/html" title="“Lern doch was gescheites”" /><published>2024-09-21T00:00:00+02:00</published><updated>2024-09-21T00:00:00+02:00</updated><id>http://localhost:4000/2024/09/21/lern-doch-was-gescheites</id><content type="html" xml:base="http://localhost:4000/2024/09/21/lern-doch-was-gescheites.html">&lt;p&gt;&lt;b&gt;Während meiner Schulzeit hat meine Familie oft meine Berufsvorstellung mit dem Satz „Lern doch was gescheites“ angegriffen, wenn ich was Schul-irrelevantes lernen wollte. Bald werde ich die erste Akademikerin der Familie und sie dürfen davon ausgehen, dass ich einen Haufen gescheiter Zeugs gelernt habe.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;#1-gescheit-sein&quot;&gt;Gescheit sein&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#2-promovierende-die-glauben-sie-seien-sehr-gescheit&quot;&gt;Promovierende, die glauben, sie seien sehr gescheit&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#3-promovierende-die-glauben-ich-sei-sehr-gescheit&quot;&gt;Promovierende, die glauben, ich sei sehr gescheit&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;1-gescheit-sein&quot;&gt;1 Gescheit sein&lt;/h4&gt;
 
 &lt;p&gt;Vor ein paar Tagen habe ich das Gutachten meiner Doktorarbeit erhalten: Alle drei Gutachter haben mir sehr gute Note und ausgesprochen positives Feedback gegeben, sogar besser als erwartet.&lt;/p&gt;
 
@@ -45,51 +35,7 @@
 
 &lt;p&gt;Ruhe bewahren, Genossen. Es gibt doch eine ganz einfache Lösung, um diese elende Mannschaft wieder auf Kurs zu bringen: Man führt ab sofort Fußball als Pflichtfach für das Abitur ein. Wer später unbedingt in der super tollen Peking Universität studieren will (weil seine Eltern meinen, dass das Leben des Kindes ganz vorbei ist, solange es keinen Platz an der besten Universität bekommt, die nur die besten 20 von 170,000 Abiturienten zulässt), muss Fußballfähigkeiten in einem Niveau von mindestens Soundso nachweisen.&lt;/p&gt;
 
-&lt;p&gt;Dann würde Fußball plötzlich für die Eltern etwas super-gescheites zu lernen. Dann hätten wir sehr bald einen Haufen gescheiter Fußballspieler in unserem Land.&lt;/p&gt;
-
-&lt;h4 id=&quot;2-promovierende-die-glauben-sie-seien-sehr-gescheit&quot;&gt;2 Promovierende, die glauben, sie seien sehr gescheit&lt;/h4&gt;
-
-&lt;p&gt;Naja, spätestens wenn ich meinen Dr.-Titel erhalte, bin ich offiziell versehen, dass ich eine Unmenge gescheite Dinge gelernt habe. Juhu.&lt;/p&gt;
-
-&lt;p&gt;…Nur ein Scherz. Ich würde nie behaupten, dass ich viel Gescheites kann. Vor allem nicht, nachdem ich während meiner Promotion so viele Möchtegern-Data-Scientists gesehen habe, die fest davon überzeugt sind, dass sie sehr gescheite Zeugs können.&lt;/p&gt;
-
-&lt;p&gt;Hier ein typisches Portrait dieser Möchtegern-Data-Scientists: Sie promovieren in einem geisteswissenschaftlichen oder sozialwissenschaftlichen Fach, das keinen mathematischen oder technischen Fokus hat. Sie behaupten, dass sie Python und Statistik und Machine Learning können und nach der Promotion in die freie Wirtschaft gehen wollen, und zwar in Data Science. Ihre Doktorarbeiten bestehen aus 5 linearen Regressionen / logistischen Regressionen auf irgendwelchen Datensätzen – Das ist nicht schlecht oder falsch, aber dabei laufen sie logistische Regression ganz ohne zu überprüfen, ob ihre Daten überhaupt die Annahmen von logistischer Regression zutreffen. Erst wenn sie darauf angesprochen werden, wird ihnen klar, dass logistische Regression bestimmte Annahmen voraussetzen, die ihre Datensätze möglicherweise gar nicht zutreffen. Python können sie auch nicht gescheit im Sinne davon, dass sie nicht mal kennen, was Klassen und Objekte sind.&lt;/p&gt;
-
-&lt;p&gt;Trotzdem halten sie sich für Super-Duper Data Scientist und verkaufen Python + Statistik + Machine Learning als ihre Kernkompetenz. Womöglich schreiben sie auch “Software Development” in ihrem Profil.&lt;/p&gt;
-
-&lt;p&gt;Ich frage mich, wie sich diese Tätigkeit – 5 logistische Regression blind zu laufen, ohne jemals zu verstehen, was dieses Regressionsmodell überhaupt tut – von der Bedienung eines Taschenrechners unterscheidet.&lt;/p&gt;
-
-&lt;p&gt;Sehr wahrscheinlich verkauft aber niemand in dem seinem Lebenslauf als Kernkompetenz, dass er kennt, wie man Knöpfe des Taschenrechners drückt.&lt;/p&gt;
-
-&lt;h4 id=&quot;3-promovierende-die-glauben-ich-sei-sehr-gescheit&quot;&gt;3 Promovierende, die glauben, ich sei sehr gescheit&lt;/h4&gt;
-&lt;p&gt;Das noch Elendere ist, dass ich damals oft folgende Fragen von diesen Möchtegern-Data-Scientists beantworten musste:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Q:&lt;/b&gt; „Ist es möglich, NLP schnell zu lernen? Ich möchte nämlich nach meiner Promotion in Data Science gehen.“
-&lt;br /&gt;&lt;b&gt;Meine zynische Antwort:&lt;/b&gt; Sicher möglich, es gibt unzählige Online-Kurse zum Thema NLP. Es ist auch möglich, dass ich morgen früh auf einem versifften Fischmarkt meiner Heimat mitte in der mongolischen Steppe – wo unter normalen Umständen niemand freiwillig besucht – versehentlich mit meinem Einkaufstrolley die Ferse des Herrn vor mir stoße und danach feststelle: „Oha, ist der Herr nicht der Robert Lewandowski?“ Und dann habe ich ein Autogramm ganz mühelos von ihm bekommen. Hurra!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ich meine, theoretisch ist alles möglich. Vielleicht soll man lieber mal nach der Wahrscheinlichkeit fragen, dass man mit einem Zertifikat aus einem dreiwöchigen NLP Crashkurs den gewünschten Data-Scientist-Job statt einen Job für Annotation oder Excel-Tabelle-Bearbeiten bekommt.&lt;/p&gt;
-
-&lt;p&gt;Neuerdings – seitdem ich mein Forschungsinstitut verlassen habe – klingt das Gespräch mit ihnen oft so:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;b&gt;Q:&lt;/b&gt; „Was machst du jetzt beruflich?“
-&lt;br /&gt;&lt;b&gt;A:&lt;/b&gt; „Ich bin Junior Software Developer.“
-&lt;br /&gt;&lt;b&gt;Q:&lt;/b&gt; „Ach cool! Gratuliere! Moment mal, du hast eine Junior-Stelle? Du hast doch während deiner Promotion so viel programmiert und bist technisch so versiert!“ 
-&lt;br /&gt;&lt;b&gt;A:&lt;/b&gt; „Ich bin ja nicht von Haus aus Softwareentwicklerin und es gibt noch viele Fertigkeiten, die ich mir aneignen muss. Ganz klar bin ich Junior.“
-&lt;br /&gt;&lt;b&gt;Q:&lt;/b&gt; „Aber du kannst sicher sehr bald eine Beförderung fordern, ne? Du kriegst ja bald den Doktortitel und die Promotion war doch auch vier Jahre Berufserfahrung!“
-&lt;br /&gt;ODER…
-&lt;br /&gt;&lt;b&gt;Q:&lt;/b&gt; „Trotzdem gut, Jobs in der freien Wirtschaft ist so viel einfacher! Man muss nur jeden Tag mal acht Studen hingehen und danach Feierabend genießen!“&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ich bin zwar fassungslos, warum sie derartig unrealistische Vorstellungen von der Arbeit in der freien Wirtschaft haben, wenn sie alle behaupten, eine Data-Science-Karriere in der freien Wirtschaft machen zu wollen. Aber ich schreibe trotzdem mal meine Antwort auf Fragen dieser Art unten und hoffe, dass meine Antwort dabei hilft, die Wahnvorstellung etwas abzubauen:&lt;/p&gt;
-
-&lt;p&gt;…Hallo liebe Kollegin, Scientific Computing ist kein Synonym von Softwareentwicklung. Programmieren ist auch kein Synonym von Softwareentwicklung. Ein Paar lose Skripte Python- oder R-Skripte zu schreiben erst recht nicht. Außerdem ist der Unterschied zwischen Berufserfahrung in der Forschung und Berufserfahrung in der freien Wirtschaft so groß wie Handball und Fußball. Wenn man Robert Lewandowski in einer Handballmannschaft einsetzt, kann er mit seinem 20+ Jahren lang Berufserfahrung  im Fußball wohl auch mit nichts anfangen.&lt;/p&gt;
-
-&lt;p&gt;Mit freundlichen Grüßen,&lt;/p&gt;
-
-&lt;p&gt;Frau Möchtegern-Softwareentwicklerin, &lt;b&gt;Jr.&lt;/b&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Während meiner Schulzeit hat meine Familie oft meine Berufsvorstellung mit dem Satz „Lern doch was gescheites“ angegriffen, wenn ich was Schul-irrelevantes lernen wollte. Bald werde ich die erste Akademikerin der Familie und sie dürfen davon ausgehen, dass ich einen Haufen gescheiter Zeugs gelernt habe.</summary></entry><entry><title type="html">Ich in einer neuen Welt</title><link href="http://localhost:4000/2024/07/14/new-start.html" rel="alternate" type="text/html" title="Ich in einer neuen Welt" /><published>2024-07-14T00:00:00+02:00</published><updated>2024-07-14T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/14/new-start</id><content type="html" xml:base="http://localhost:4000/2024/07/14/new-start.html">&lt;p&gt;&lt;b&gt;Ich dachte, dass ich einfach akzeptieren müsste, dass ich mein Berufsleben nie ganz frei entscheiden können würde. Ich dachte auch, dass ich die Liebe meiner Mutter zum Fußball gar nicht geerbt hätte. Aber anscheinend war ich völlig falsch.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dann würde Fußball plötzlich für die Eltern etwas super-gescheites zu lernen. Dann hätten wir sehr bald einen Haufen gescheiter Fußballspieler in unserem Land.&lt;/p&gt;</content><author><name></name></author><summary type="html">Während meiner Schulzeit hat meine Familie oft meine Berufsvorstellung mit dem Satz „Lern doch was gescheites“ angegriffen, wenn ich was Schul-irrelevantes lernen wollte. Bald werde ich die erste Akademikerin der Familie und sie dürfen davon ausgehen, dass ich einen Haufen gescheiter Zeugs gelernt habe.</summary></entry><entry><title type="html">Ich in einer neuen Welt</title><link href="http://localhost:4000/2024/07/14/new-start.html" rel="alternate" type="text/html" title="Ich in einer neuen Welt" /><published>2024-07-14T00:00:00+02:00</published><updated>2024-07-14T00:00:00+02:00</updated><id>http://localhost:4000/2024/07/14/new-start</id><content type="html" xml:base="http://localhost:4000/2024/07/14/new-start.html">&lt;p&gt;&lt;b&gt;Ich dachte, dass ich einfach akzeptieren müsste, dass ich mein Berufsleben nie ganz frei entscheiden können würde. Ich dachte auch, dass ich die Liebe meiner Mutter zum Fußball gar nicht geerbt hätte. Aber anscheinend war ich völlig falsch.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
