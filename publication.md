@@ -72,7 +72,7 @@ categories:
             authors: Regine Eckardt and <b>Qi Yu</b>
             year: 2020
             inbook: Linguistica Brunensia, 68(1)&#58; 7-22
-            pdf: /assets/pdf/2020_LB.pdf
+            pdf: https://digilib.phil.muni.cz/sites/default/files/pdf/142810.pdf
       
 #  - name: TALKS AND POSTERS
 #    sections:
