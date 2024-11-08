@@ -10,7 +10,7 @@ I am a <b>software developer</b> at <b><a href="https://www.gft.com/int/en" targ
 I'm based at <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Software Solutions</a> in Konstanz, located along the beautiful Rhine River. <br>
 
 <hr>
-<p><b>Tools and technologies</b> I use most frequently:</p>
+<p>Here are the <b>tools and technologies</b> I use most frequently:</p>
 
 <p>
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code> 
@@ -41,6 +41,13 @@ where I developed <b>machine learning and statistical solutions</b> to detect fr
 <p>
 I defended my PhD dissertation in October 2024 - and proudly earned <b style="background: linear-gradient(to right, red, orange, green, blue, indigo, violet); -webkit-background-clip: text; color: transparent; letter-spacing: 2px;">SUMMA CUM LAUDE</b>! <br>
 See the tabs <a href="https://qi-yu.github.io/projects">Research Projects</a> and <a href="https://qi-yu.github.io/publication">Publications</a> for my research outputs.
+</p>
+<hr>
+
+<p>
+When I'm not programming, I love to spend my time on:<br>
+<a href="https://qi-yu.github.io/horcrux/">Painting</a> / writing fan fiction / swimming / watching My Little Pony / reading random football news.
+
 </p>
 
 
