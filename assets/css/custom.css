@@ -1,6 +1,6 @@
 body {
     font-family: 'Helvetica', sans-serif;
-    font-size: 14pt;
+    font-size: 13pt;
     font-weight: 500;
 }
 
@@ -61,7 +61,7 @@ ul.subproject {
 }
 
 .wrapper {
-    max-width: 65%;
+    max-width: 1000px;
 }
 
 .center-container {
@@ -71,7 +71,7 @@ ul.subproject {
   align-items: center;     /* Center vertically */
   text-align: center;
   height: 100vh;           /* Full viewport height */
-  margin-bottom: 5rem;
+  margin-bottom: 5em;
 }
 
 .profile-pic {
@@ -117,19 +117,19 @@ ul.subproject {
     margin-top: 1em;
 }
 
-hr {
-    border: 0;
-    height: 1px;
-    background: #333;
-    background-image: linear-gradient(to right, #ccc, #333, #ccc);
-    margin-bottom: 1.5rem;
-}
-
 /* On mobile devices */
 @media (max-width: 767px) {
   .profile-container {
     flex-direction: column;
     align-items: center;
     text-align: center;
+  }
+
+  .wrapper {
+    max-width: 850px;
+  }
+
+  .profile-pic {
+      width: 60%;
   }
 }
