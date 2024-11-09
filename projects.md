@@ -13,7 +13,8 @@ items:
       - badge: https://img.shields.io/badge/Python-grey?logo=Python&logoSize=auto&labelColor=yellow
       - badge: https://img.shields.io/badge/Flask-grey?logo=Flask&logoSize=auto&labelColor=blue
       - badge: https://img.shields.io/badge/PostgreSQL-grey?logo=PostgreSQL&logoSize=auto&labelColor=white
-
+      - badge: https://img.shields.io/badge/Docker-grey?logo=Docker&labelColor=pink
+        
     resources:
       - name: 
         code: https://github.com/qi-yu/rhetorical-framing-explorator
