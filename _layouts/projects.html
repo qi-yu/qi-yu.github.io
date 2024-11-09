@@ -18,24 +18,33 @@
               alt="{{ item.image.alt }}"
               class="work-bubble"
             />
-            <span class="work-text">
-              <strong>{{ item.title }}</strong>
-              &mdash;
-              {{ item.description }}
+            <span>
+              <div class="work-title">
+                <strong>{{ item.title }}</strong>
+              </div>
+              <div class="text-block">{{ item.description }}</div>
 
-              <br><br>
-              <strong style="color: #828282;">Relevant Resources: </strong>
-              {% if item.resources and item.resources != ""%}
-                {% for resource in item.resources %}
-                  {{ resource.name }}
-                  {% if resource.paper and item.paper != ""%}
-                    <a href="{{ resource.paper }}" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
-                  {% endif %}
-                  {% if resource.code and item.code != ""%}
-                    <a href="{{ resource.code }}" target="_blank"><i class="fa-brands fa-github"></i></a>
-                  {% endif %}
+              <div>
+                <strong style="color: #828282;"> Tags: </strong>
+                {% for tag in item.tags %}
+                <img src="{{ tag.badge }}" alt="tag"/>
                 {% endfor %}
-              {% endif %}
+              </div>
+
+              <div>
+                <strong style="color: #828282;">Resources: </strong>
+                {% if item.resources and item.resources != ""%}
+                  {% for resource in item.resources %}
+                    {{ resource.name }}
+                    {% if resource.paper and item.paper != ""%}
+                      <a href="{{ resource.paper }}" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+                    {% endif %}
+                    {% if resource.code and item.code != ""%}
+                      <a href="{{ resource.code }}" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
+              </div>
             </span>
           </div>
           {% endfor %}

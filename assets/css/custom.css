@@ -1,6 +1,6 @@
 body {
     font-family: 'Helvetica', sans-serif;
-    font-size: 11pt;
+    font-size: 14pt;
     font-weight: 500;
 }
 
@@ -21,8 +21,9 @@ h3 {
 }
 
 .page-heading {
-    color: #808B96;
+    /*color: #808B96;*/
     font-size: 18pt;
+    text-align: center;
 }
 
 .headsec {
@@ -60,25 +61,26 @@ ul.subproject {
 }
 
 .wrapper {
-    max-width: 850px;
+    max-width: 65%;
 }
 
-.profilepic {
-    border: #255 0px solid
+.center-container {
+  display: flex;
+  flex-direction: column;  /* Stack content vertically */
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
+  text-align: center;
+  height: 100vh;           /* Full viewport height */
+  margin: 0;
 }
 
-.profile-container {
-    display: flex;
-    align-items: center;
-    text-align: center;
-    padding: 10px;
+.profile-pic {
+  width: 30%;
 }
 
-.greeting-message {
-    padding-left: 20px;
-    float: left;
-    color: #828282;
-  }
+.text-block {
+    margin-bottom: 2%;
+}
 
 .item {
     margin-bottom: 2rem;

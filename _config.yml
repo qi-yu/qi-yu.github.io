@@ -12,7 +12,7 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: About
-      slug: /
+      slug: /#about
     - name: Research Projects
       slug: /projects
     - name: Publications

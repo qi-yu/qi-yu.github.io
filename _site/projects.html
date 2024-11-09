@@ -32,22 +32,22 @@
   
 
   <!-- Primary Meta Tags -->
-  <title>Qi Yu | SELECTED PROJECTS</title>
-  <meta name="title" content="Qi Yu | SELECTED PROJECTS"/>
+  <title>Qi Yu | Selected Projects</title>
+  <meta name="title" content="Qi Yu | Selected Projects"/>
   <meta name="description" content="Qi Yu's homepage"/>
 
   <!-- Open Graph / Facebook -->
-  <meta property="og:site_name" content="Qi Yu | SELECTED PROJECTS"/>
+  <meta property="og:site_name" content="Qi Yu | Selected Projects"/>
   <meta property="og:type" content="website"/>
   <meta property="og:url" content="http://localhost:4000/projects"/>
-  <meta property="og:title" content="Qi Yu | SELECTED PROJECTS"/>
+  <meta property="og:title" content="Qi Yu | Selected Projects"/>
   <meta property="og:description" content="Qi Yu's homepage"/>
   <meta property="og:image" content="http://localhost:4000/assets/img/profile-pic.jpg"/>
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image"/>
   <meta property="twitter:url" content="http://localhost:4000/projects"/>
-  <meta property="twitter:title" content="Qi Yu | SELECTED PROJECTS"/>
+  <meta property="twitter:title" content="Qi Yu | Selected Projects"/>
   <meta property="twitter:description" content="Qi Yu's homepage"/>
   <meta property="twitter:image" content="http://localhost:4000/assets/img/profile-pic.jpg"/>
   
@@ -72,9 +72,9 @@
   <body>
     <header class="site-header">
   <div class="wrapper">
-    <span><a class="header_title" href="index.html">
-          Qi Yu
-    </a></span>
+<!--    <span><a class="header_title" href="index.html">-->
+<!--          Qi Yu-->
+<!--    </a></span>-->
 
     <nav class="site-nav">
       <a href="#" class="menu-icon"></a>
@@ -83,7 +83,7 @@
         
           
           
-          <a class="page-link" href="http://localhost:4000/">
+          <a class="page-link" href="http://localhost:4000/#about">
             About
           </a>
         
@@ -126,7 +126,7 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="work">
-          <h1 class="page-heading">SELECTED PROJECTS</h1>
+          <h1 class="page-heading">Selected Projects</h1>
           
 
 
@@ -137,22 +137,37 @@
               alt="Rhetorical Framing Explorator"
               class="work-bubble"
             />
-            <span class="work-text">
-              <strong>Web App <i>Rhetorical Framing Explorator</i></strong>
-              &mdash;
-              Earlier NLP studies on framing in journalistic texts often oversimplify framing as a mere matter of topic coverage. However, framing is not about <i>what is said</i>, but <i>how things are said</i>. For instance, as readers we sense that these two sentences convey very different attitudes&#58; "The ruling parties do not understand what family means for the refugees" vs. "The ruling parties do not <u>even</u> understand what family means for the refugees". <br><br>However, such nuanced language usage is heavily understudied in NLP. This is partially due to the reason that NLP studies increasingly use black-box models (e.g., LLMs) that do not allow a drilling down into the effects of linguistically meaningful components. I developed a web App which facilitates the exploration of such subtle linguistic aspects of framing.
+            <span>
+              <div class="work-title">
+                <strong>Web App <i>Rhetorical Framing Explorator</i></strong>
+              </div>
+              <div class="text-block">Earlier NLP studies on framing in journalistic texts often oversimplify framing as a mere matter of topic coverage. However, framing is not about <i>what is said</i>, but <i>how things are said</i>. For instance, these two sentences convey very different attitudes&#58; "The ruling parties do not understand what family means for the refugees" vs. "The ruling parties do not <u>even</u> understand what family means for the refugees". <br><br>However, such nuanced language usage is heavily understudied in NLP. This is partially due to the reason that NLP studies increasingly use black-box models (e.g., LLMs) that do not allow a drilling down into the effects of linguistically meaningful components. I developed a web App which facilitates the exploration of such subtle linguistic aspects of framing.</div>
 
-              <br><br>
-              <strong style="color: #828282;">Relevant Resources: </strong>
-              
+              <div>
+                <strong style="color: #828282;"> Tags: </strong>
+                
+                <img src="https://img.shields.io/badge/Angular-grey?logo=Angular&logoSize=auto&labelColor=red" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoSize=auto&labelColor=yellow" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/Flask-grey?logo=Flask&logoSize=auto&labelColor=blue" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/PostgreSQL-grey?logo=PostgreSQL&logoSize=auto&labelColor=white" alt="tag"/>
+                
+              </div>
+
+              <div>
+                <strong style="color: #828282;">Resources: </strong>
                 
                   
-                  
-                  
-                    <a href="https://github.com/qi-yu/rhetorical-framing-explorator" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    
+                    
+                    
+                      <a href="https://github.com/qi-yu/rhetorical-framing-explorator" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    
                   
                 
-              
+              </div>
             </span>
           </div>
           
@@ -162,24 +177,37 @@
               alt="Behaviors of LLMs"
               class="work-bubble"
             />
-            <span class="work-text">
-              <strong>Examining Behaviors of Large Language Models</strong>
-              &mdash;
-              LLMs are powerful and yield groundbreaking results, but model explainability is also crucial for many use cases&#58; what have they actually learned from the training data and why do they come to a certain decision? For text data, this is especially relevant for complex tasks such as the automated detection of figurative language usage, e.g., sarcasm or metaphor. <br><br> My colleagues and I probe the performance of diverse black-box LLMs and compare them with white-box (explainable) models on the task of figurative language classification. <u>Fun fact&#58;</u> for this probing task, we found that black-box models are not that unexplainable, whereas white-box models are sometimes not really human-interpretable.
+            <span>
+              <div class="work-title">
+                <strong>Examining Behaviors of Large Language Models</strong>
+              </div>
+              <div class="text-block">LLMs are powerful and yield groundbreaking results, but model explainability is also crucial for many use cases&#58; what have they actually learned from the training data and why do they come to a certain decision? For text data, this is especially relevant for complex tasks such as the automated detection of figurative language usage, e.g., sarcasm or metaphor. <br><br> My colleagues and I probe the performance of diverse black-box LLMs and compare them with white-box (explainable) models on the task of figurative language classification. <u>Fun fact&#58;</u> for this probing task, we found that black-box models are not that unexplainable, whereas white-box models are sometimes not really human-interpretable.</div>
 
-              <br><br>
-              <strong style="color: #828282;">Relevant Resources: </strong>
-              
+              <div>
+                <strong style="color: #828282;"> Tags: </strong>
                 
-                  Yu et al. (2023)
+                <img src="https://img.shields.io/badge/%20Hugging%20Face-grey?logo=Huggingface&logoSize=auto&labelColor=black" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoSize=auto&labelColor=yellow" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/R-grey?logo=R&logoSize=auto&labelColor=purple" alt="tag"/>
+                
+              </div>
+
+              <div>
+                <strong style="color: #828282;">Resources: </strong>
+                
                   
-                    <a href="https://aclanthology.org/2023.findings-acl.622.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
-                  
-                  
-                    <a href="https://github.com/CoPsyN/figurative-language-processing" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    Yu et al. (2023)
+                    
+                      <a href="https://aclanthology.org/2023.findings-acl.622.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+                    
+                    
+                      <a href="https://github.com/CoPsyN/figurative-language-processing" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    
                   
                 
-              
+              </div>
             </span>
           </div>
           
@@ -189,24 +217,37 @@
               alt="Coinage Compounds"
               class="work-bubble"
             />
-            <span class="work-text">
-              <strong>Large-Scale Experiments on Compound Neologisms</strong>
-              &mdash;
-              This project is more of a cognitive science (psycholinguistics) nature. The German language is rich of compounds, and new compounds can always be derivated - you might know crazy examples like "Donaudampfschiffahrtsgesellschaftskapitän". In journalism, sometimes authors invent compounds to implicitly convey biased attitudes. <br><br>For instance, what impact on readers' perceptions does it make to call an intern who wears a hijab because of her religious background as "<u>the hijab-intern</u>" (original in German&#58; <u>Kopftuchpraktikantin</u>) instead of "<u>the intern who wears a hijab</u>" (German&#58; <u>kopftuchtragende Praktikantin</u>)? In collaboration with the University of Tübingen, I designed experiments to unravel this.
+            <span>
+              <div class="work-title">
+                <strong>Large-Scale Experiments on Compound Neologisms</strong>
+              </div>
+              <div class="text-block">This project is more of a cognitive science (psycholinguistics) nature. The German language is rich of compounds, and new compounds can always be derivated - you might know crazy examples like "Donaudampfschiffahrtsgesellschaftskapitän". In journalism, sometimes authors invent compounds to implicitly convey biased attitudes. <br><br>For instance, what impact on readers' perceptions does it make to call an intern who wears a hijab because of her religious background as "<u>the hijab-intern</u>" (original in German&#58; <u>Kopftuchpraktikantin</u>) instead of "<u>the intern who wears a hijab</u>" (German&#58; <u>kopftuchtragende Praktikantin</u>)? In collaboration with the University of Tübingen, I designed experiments to unravel this.</div>
 
-              <br><br>
-              <strong style="color: #828282;">Relevant Resources: </strong>
-              
+              <div>
+                <strong style="color: #828282;"> Tags: </strong>
                 
-                  Yu et al. (2024)
+                <img src="https://img.shields.io/badge/OpenAI-grey?logo=OpenAI&logoSize=auto&labelColor=green" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/Python-grey?logo=Python&logoSize=auto&labelColor=yellow" alt="tag"/>
+                
+                <img src="https://img.shields.io/badge/R-grey?logo=R&logoSize=auto&labelColor=purple" alt="tag"/>
+                
+              </div>
+
+              <div>
+                <strong style="color: #828282;">Resources: </strong>
+                
                   
-                    <a href="https://aclanthology.org/2024.mwe-1.27.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
-                  
-                  
-                    <a href="https://github.com/qi-yu/enigmatic-compounds" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    Yu et al. (2024)
+                    
+                      <a href="https://aclanthology.org/2024.mwe-1.27.pdf" target="_blank"><i class="fa-solid fa-file-pdf"></i></a>
+                    
+                    
+                      <a href="https://github.com/qi-yu/enigmatic-compounds" target="_blank"><i class="fa-brands fa-github"></i></a>
+                    
                   
                 
-              
+              </div>
             </span>
           </div>
           
