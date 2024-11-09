@@ -7,22 +7,21 @@
 
     <div class="page-content">
       <div class="wrapper">
-          <p><b><u>A Small Anecdote / Sidenote:</u></b></p>
-          <p>Back to my time working in multidisciplinary settings, I occasionally received comments on my publications like: "Ah, so the paper is in a <i>conference proceeding</i>!" (AKA: "Ah, they are not <i>real</i> publications at all because they not in a <i>journal</i>!").<br>
-          <p>However, this is not true. In the field of Natural Language Processing, it is standard practice to publish in conferences.</p>
-          <hr>
+          <div style="color: #808B96; font-size: 12pt">
+              <p><b>A Small Anecdote / Sidenote:</b></p>
+              <p>Back to my time working in multidisciplinary settings, I occasionally received comments on my publications like: "Ah, so the paper is in a <i>conference proceeding</i>!" (AKA: "Ah, they are not <i>real</i> publications at all because they not in a <i>journal</i>!").<br>
+              <p>However, this is not true. In the field of Natural Language Processing, it is standard practice to publish in conferences.</p>
+          </div>
 
         {% for category in page.categories %}
-          <h1 class="page-heading"> {{ category.name }} </h1>
+<!--          <h1 class="page-heading"> {{ category.name }} </h1>-->
 
         {% for section in category.sections %}
-        <div class="work">
+        <div class="work-item">
           <!--h3 {{ section.year }}
           {{ section.desc }} -->
 
-          <ul>
           {% for item in section.items %}
-            <!-- li -->
               {{ item.authors }}.
               {{ item.year }}.
               {{ item.title }}.
@@ -41,13 +40,11 @@
               {% if item.resource and item.resource != "" and item.resource != nil %}
                 <a href="{{ item.resource }}" target="_blank"><i class="fa-brands fa-github"></i></a>
               {% endif %}
+              <br>
               {% if item.special and item.special != "" and item.special != nil %}
                 <span class="special">{{ item.special }}</span>
               {% endif %}
-            <br><!--br-->
-            <!--/li-->
           {% endfor %} <!-- section.items -->
-          </ul>
 
         </div>
         {% endfor %} <!-- page.sections -->

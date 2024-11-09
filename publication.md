@@ -1,7 +1,7 @@
 ---
 layout: publication
 categories:
-  - name: PUBLICATIONS
+  - name: Publications
     sections: 
       - year: 2024
         items:

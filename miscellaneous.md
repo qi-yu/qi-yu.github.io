@@ -1,6 +1,6 @@
 ---
 layout: miscellaneous
-title: MAYBE SOMETHING FUNNY...OR NOT.
+title: Maybe Something Funny...Or Not.
 slug: /miscellaneous
 items:
   - title: Some unofficial titles I have given to myself, or been given by people close to me...

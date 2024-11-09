@@ -1,21 +1,40 @@
 /**
  * Site header
  */
+//.site-header {
+//  border-bottom: 1px solid $grey-color-light;
+//  min-height: 56px;
+//
+//  padding-top: 10px;
+//  padding-bottom: 10px;
+//
+//  @include media-query($on-mobile) {
+//    padding-top: 0;
+//    padding-bottom: 0;
+//  }
+//
+//  // Positioning context for the mobile navigation icon
+//  position: relative;
+//}
+
 .site-header {
   border-bottom: 1px solid $grey-color-light;
+  background-color: white;
   min-height: 56px;
-
   padding-top: 10px;
   padding-bottom: 10px;
+  position: fixed; // Fix the header at the top of the page
+  top: 0; // Position it at the very top
+  left: 0;
+  right: 0;
+  z-index: 1000; // Ensure it stays above other elements
 
   @include media-query($on-mobile) {
     padding-top: 0;
     padding-bottom: 0;
   }
-
-  // Positioning context for the mobile navigation icon
-  position: relative;
 }
+
 
 .site-title {
   font-size: 26px;
@@ -156,7 +175,8 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  //padding: $spacing-unit 20;
+  padding: 8%;
 }
 
 .page-heading {

@@ -7,24 +7,23 @@
     <div class="page-content">
       <div class="wrapper">
         <h1 class="page-heading">{{ page.title }}</h1>
-        <h5>(Click to Unfold)</h5>
-        <div class="work">
+
+        <div>
           {% if page.items %}
             {% for item in page.items %}
-              <div class="item">
-                <span class="accordion">
-                    <span class="triangle"></span>
-                  <u>{{ item.title }}</u>
-                </span>
-                <div class="description">
+              <div class="work-item">
+<!--                <span class="work-item">-->
+<!--                    <span class="triangle"></span>-->
+                <div class="work-title" style="color: #808B96">{{ item.title }}</div>
+<!--                </span>-->
+                <div>
                   {% if item.descriptions %}
-                    <ul>
                       {% for description in item.descriptions %}
-                        <li>{{ description.name }}</li>
+                    <div class="text-block">
+                        {{ description.name }}
+                    </div>
+
                       {% endfor %}
-                    </ul>
-                  {% else %}
-                    <p>No descriptions available.</p>
                   {% endif %}
                 </div>
               </div>
@@ -38,6 +37,6 @@
     {% include footer.html %}
     {% include foot.html %}
 
-    <script src="../assets/js/accordion.js"></script>
+<!--    <script src="../assets/js/accordion.js"></script>-->
   </body>
 </html>
