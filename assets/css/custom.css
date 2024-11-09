@@ -63,6 +63,16 @@ ul.subproject {
     max-width: 1000px;
 }
 
+.animated-icon:hover i {
+    transform: scale(1.3);
+    transition: transform 0.2s ease;
+}
+
+.animated-icon:hover img {
+    transform: scale(1.3);
+    transition: transform 0.2s ease;
+}
+
 .center-container {
   display: flex;
   flex-direction: column;  /* Stack content vertically */
