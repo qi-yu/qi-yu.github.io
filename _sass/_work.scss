@@ -20,22 +20,3 @@
   font-size: 14pt;
   font-weight: 700;
 }
-
-/* On mobile devices */
-@media (max-width: 767px) {
-  .work-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .work-bubble {
-    width: 80%;
-    margin-right: 0;
-    margin-bottom: 1em;
-  }
-
-  .work-title {
-    text-align: center;
-  }
-}
