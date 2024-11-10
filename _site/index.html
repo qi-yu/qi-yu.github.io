@@ -76,7 +76,7 @@
   <body>
     <header class="site-header">
   <div class="wrapper">
-    <a class="header_title" href="index.html">
+    <a class="header_title" href="/">
           <i class="fa fa-home" aria-hidden="true"></i>
     </a>
 
@@ -84,12 +84,6 @@
       <a href="#" class="menu-icon"></a>
 
       <div class="menu">
-        
-          
-          
-          <a class="page-link" href="http://localhost:4000/#about">
-            About
-          </a>
         
           
           
@@ -134,15 +128,15 @@
                alt="profile picture"
                class="profile-pic"
           />
-          <p class="page-heading" style="margin: 0; font-weight: 700;"> Qi Yu </p>
-          <p class="page-heading" style="line-height: 1;"> Software Developer. </p>
-          <p style="line-height: 0.5;"> Previous NLP researcher. </p>
-          <h1>
+          <h2 class="page-heading" style="margin: 0; font-weight: 700;"> Hi, I'm Qi Yu. </h2>
+          <p class="page-heading" style="line-height: 1;"> A Software Developer. </p>
+          <p style="line-height: 0.5;"> Previous an NLP researcher. </p>
+          <h2>
             <a href="https://github.com/qi-yu" target="_blank"><i class="fa-brands fa-github animated-icon"></i></a>
             <a href="mailto:qi.yu@uni-konstanz.de"><i class="fa-solid fa-envelope animated-icon"></i></a>
-          </h1>
+          </h2>
 
-          <p><b>Technologies and tools</b> I use most frequently:</p>
+          <p>Technologies and tools I use most frequently:</p>
 
           <p>
             <code><img title="Python" alt="python" class="techstack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -163,11 +157,17 @@
             <code><img title="Azure DevOps" alt="azuredevops" class="techstack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></code>
             <code><img title="Jira" alt="jira" class="techstack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>
           </p>
+
+          <button onclick="scrollToAbout()" class="read-more-btn">Read more about me</button>
+
         </div>
       </div>
-      <div class="wrapper" id="about">
-        <h2 class="page-heading">About Me</h2>
-        <p class="text-block">
+    </div>
+
+
+    <div class="wrapper" id="about">
+      <h2 class="page-heading">About Me</h2>
+      <p class="text-block">
 I am a <b>software developer</b> at <b><a href="https://www.gft.com/int/en" target="_blank">GFT Technologies</a></b> (since July 2024).<br />
 I'm based at <a href="https://www.gft.com/de/de/technology/gft-software-solutions" target="_blank">GFT Software Solutions</a> in Konstanz, located along the beautiful Rhine River. <br />
 
@@ -193,9 +193,13 @@ When I'm not coding, I love to spend my time on:<br />
 
 </p>
 
-      </div>
     </div>
 
+    <script>
+      function scrollToAbout() {
+          document.getElementById("about").scrollIntoView({ behavior: "smooth" });
+      }
+    </script>
 <!--      <div class="wrapper">-->
 <!--        <h2 class="page-heading">READ MORE</h2>-->
 <!--        <div class="item">-->

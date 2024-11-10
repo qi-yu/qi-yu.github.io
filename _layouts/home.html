@@ -16,15 +16,15 @@
                alt="{{ page.profile_picture.alt }}"
                class="profile-pic"
           />
-          <p class="page-heading" style="margin: 0; font-weight: 700;"> Qi Yu </p>
-          <p class="page-heading" style="line-height: 1;"> Software Developer. </p>
-          <p style="line-height: 0.5;"> Previous NLP researcher. </p>
-          <h1>
+          <h2 class="page-heading" style="margin: 0; font-weight: 700;"> Hi, I'm Qi Yu. </h2>
+          <p class="page-heading" style="line-height: 1;"> A Software Developer. </p>
+          <p style="line-height: 0.5;"> Previous an NLP researcher. </p>
+          <h2>
             <a href="https://github.com/qi-yu" target="_blank"><i class="fa-brands fa-github animated-icon"></i></a>
             <a href="mailto:qi.yu@uni-konstanz.de"><i class="fa-solid fa-envelope animated-icon"></i></a>
-          </h1>
+          </h2>
 
-          <p><b>Technologies and tools</b> I use most frequently:</p>
+          <p>Technologies and tools I use most frequently:</p>
 
           <p>
             <code><img title="Python" alt="python" class="techstack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
@@ -45,14 +45,24 @@
             <code><img title="Azure DevOps" alt="azuredevops" class="techstack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" /></code>
             <code><img title="Jira" alt="jira" class="techstack-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></code>
           </p>
+
+          <button onclick="scrollToAbout()" class="read-more-btn">Read more about me</button>
+
         </div>
-      </div>
-      <div class="wrapper" id="about">
-        <h2 class="page-heading">About Me</h2>
-        {{ content }}
       </div>
     </div>
 
+
+    <div class="wrapper" id="about">
+      <h2 class="page-heading">About Me</h2>
+      {{ content }}
+    </div>
+
+    <script>
+      function scrollToAbout() {
+          document.getElementById("about").scrollIntoView({ behavior: "smooth" });
+      }
+    </script>
 <!--      <div class="wrapper">-->
 <!--        <h2 class="page-heading">READ MORE</h2>-->
 <!--        <div class="item">-->
