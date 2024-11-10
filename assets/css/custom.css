@@ -78,7 +78,7 @@ ul.subproject {
   justify-content: center; /* Center horizontally */
   align-items: center;     /* Center vertically */
   text-align: center;
-  height: 100vh;           /* Full viewport height */
+  height: 85vh;           /* Full viewport height */
   margin-bottom: 5em;
 }
 
