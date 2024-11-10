@@ -1,15 +1,22 @@
 :root {
+    --background-color: whitesmoke;
+    /*--background-color: gainsboro;*/
     --highlight-color: #982e2c;
 }
 
 body {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Verdana', sans-serif;
     font-size: 13pt;
     font-weight: 500;
+    background-color: var(--background-color);
+}
+
+.site-header {
+    background-color: var(--background-color);
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Verdana', sans-serif;
     font-weight: 700;
 }
 
@@ -18,7 +25,7 @@ h3 {
 }
 
 .header_title {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Verdana', sans-serif;
     font-weight: 700;
     font-size: 20pt;
     color: #111
@@ -100,11 +107,8 @@ ul.subproject {
 
 .read-more-btn {
     cursor: pointer;
-    padding: 10px 20px;
-    background-color: white;
+    padding-top: 2em;
     color: var(--highlight-color);
-    border: none;
-    border-radius: 5px;
     font-size: 1.2rem;
     font-weight: 700;
 }
@@ -139,6 +143,18 @@ ul.subproject {
     display: none;
     margin-top: 1em;
 }
+@keyframes caret {
+  50% {
+    border-color: transparent;
+  }
+}
+
+.cursor {
+    display: inline-block;
+    width: 1px;
+    background-color: black;
+    animation: blink 0.7s infinite;
+  }
 
 /* On mobile devices */
 @media (max-width: 767px) {

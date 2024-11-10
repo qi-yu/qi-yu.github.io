@@ -17,8 +17,6 @@ header:
       slug: /projects
     - name: Publications
       slug: /publication
-#    - name: Teaching
-#      slug: /teaching
     - name: Paintings
       slug: /horcrux
     - name: Qi's Ramble
