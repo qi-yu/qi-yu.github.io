@@ -43,13 +43,13 @@
 
               <strong style="color: #828282;">Resources: </strong>
               {% if item.pdf and item.pdf != "" and item.pdf != nil %}
-                <a href="{{ item.pdf }}" target="_blank" class="animated-icon">
-                    <img src="https://img.shields.io/badge/PDF-blue?logo=Database" alt="PDF" />
+                <a href="{{ item.pdf }}" target="_blank">
+                    <img class="animated-icon" src="https://img.shields.io/badge/PDF-blue?logo=Database" alt="PDF" />
                 </a>
               {% endif %}
               {% if item.resource and item.resource != "" and item.resource != nil %}
-                <a href="{{ item.resource }}" target="_blank" class="animated-icon">
-                    <img src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&labelColor=grey" alt="GitHub" />
+                <a href="{{ item.resource }}" target="_blank">
+                    <img class="animated-icon" src="https://img.shields.io/badge/GitHub-blue?logo=GitHub&labelColor=grey" alt="GitHub" />
                 </a>
               {% endif %}
 

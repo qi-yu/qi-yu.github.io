@@ -37,10 +37,10 @@
                   {% for resource in item.resources %}
                     {{ resource.name }}
                     {% if resource.paper and item.paper != ""%}
-                      <a href="{{ resource.paper }}" target="_blank" class="animated-icon"><i class="fa-solid fa-file-pdf"></i></a>
+                      <a href="{{ resource.paper }}" target="_blank"><i class="fa-solid fa-file-pdf animated-icon"></i></a>
                     {% endif %}
                     {% if resource.code and item.code != ""%}
-                      <a href="{{ resource.code }}" target="_blank" class="animated-icon"><i class="fa-brands fa-github"></i></a>
+                      <a href="{{ resource.code }}" target="_blank" class="animated-icon"><i class="fa-brands fa-github animated-icon"></i></a>
                     {% endif %}
                   {% endfor %}
                 {% endif %}

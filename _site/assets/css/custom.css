@@ -63,14 +63,13 @@ ul.subproject {
     max-width: 1000px;
 }
 
-.animated-icon:hover i {
+.animated-icon:hover {
     transform: scale(1.3);
     transition: transform 0.2s ease;
 }
 
-.animated-icon:hover img {
-    transform: scale(1.3);
-    transition: transform 0.2s ease;
+.techstack-icon {
+    width: 30px;
 }
 
 .center-container {
