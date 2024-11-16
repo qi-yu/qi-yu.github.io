@@ -113,32 +113,6 @@ ul.subproject {
     font-weight: 700;
 }
 
-.accordion {
-    background-color: #f0f0f0;
-    font-weight: 700;
-    font-size: 12pt;
-    padding: 0.5em;
-}
-
-.accordion:hover {
-  cursor: pointer;
-}
-
-.triangle {
-  display: inline-block;
-  width: 0;
-  height: 0;
-  border-top: 5px solid transparent;
-  border-bottom: 5px solid transparent;
-  border-left: 8px solid #808B96;
-  margin-right: 5px;
-  transition: transform 0.3s ease-out;
-}
-
-.triangle-rotate {
-  transform: rotate(90deg);
-}
-
 .description {
     display: none;
     margin-top: 1em;
@@ -149,12 +123,23 @@ ul.subproject {
   }
 }
 
-.cursor {
+.typing {
     display: inline-block;
-    width: 1px;
-    background-color: black;
-    animation: blink 0.7s infinite;
-  }
+    position: relative;
+}
+
+.typing::after {
+    content: "|";
+    position: absolute;
+    right: -0.3em;
+    color: black;
+    animation: blink 0.8s steps(2, start) infinite;
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
 
 /* On mobile devices */
 @media (max-width: 767px) {
