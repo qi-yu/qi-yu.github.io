@@ -88,7 +88,7 @@ ul.subproject {
   justify-content: center; /* Center horizontally */
   align-items: center;     /* Center vertically */
   text-align: center;
-  height: 85vh;           /* Full viewport height */
+  height: 90vh;           /* Full viewport height */
   margin-bottom: 5em;
 }
 
@@ -106,7 +106,7 @@ ul.subproject {
 
 .read-more-btn {
     cursor: pointer;
-    padding-top: 2em;
+    padding-top: 1em;
     color: var(--highlight-color);
     font-size: 1.2rem;
     font-weight: 700;
@@ -135,25 +135,25 @@ ul.subproject {
     animation: blink 0.8s steps(2, start) infinite;
 }
 
-.jumping-triangle {
-    font-size: 30px;
-    display: inline-block;
-    animation: jump 1s infinite;
-  }
-
-  @keyframes jump {
-    0%, 100% {
-      transform: translateY(0);
-    }
-    50% {
-      transform: translateY(-5px);
-    }
-  }
-
 @keyframes blink {
     0%, 100% { opacity: 1; }
     50% { opacity: 0; }
 }
+
+.jumping-triangle {
+    font-size: 30px;
+    display: inline-block;
+    /*animation: jump 1s infinite;*/
+  }
+
+  /*@keyframes jump {*/
+  /*  0%, 100% {*/
+  /*    transform: translateY(0);*/
+  /*  }*/
+  /*  50% {*/
+  /*    transform: translateY(-5px);*/
+  /*  }*/
+  /*}*/
 
 /* On mobile devices */
 @media (max-width: 767px) {
@@ -170,4 +170,83 @@ ul.subproject {
   .profile-pic {
       width: 60%;
   }
+}
+
+/* Make the timeline section taller than the viewport */
+#timeline {
+  padding: 3em 0;
+  min-height: 120vh; /* Ensure the section is 120% of the viewport height */
+  position: relative;
+  overflow: hidden; /* Prevent the line from going outside of the section */
+}
+
+.timeline {
+  position: relative;
+  padding: 2em 0;
+  margin: 0 auto;
+  /*max-width: 800px;*/
+    width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.timeline-line {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  height: 100%;
+  width: 2px;
+  background-color: #ddd;
+  z-index: 0; /* Ensure it stays behind the content */
+}
+
+.timeline-item {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50vh; /* Ensure items are spaced out enough to be shown one at a time */
+  opacity: 0;
+  transform: translateY(50px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+
+.timeline-content {
+  position: relative;
+  width: 100%;
+  padding: 1em;
+  background: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+.timeline-item:nth-child(even) .timeline-content {
+    margin-left: 50%; /* Position content on the right for even items */
+    text-align: left;
+}
+
+.timeline-item:nth-child(odd) .timeline-content {
+  margin-right: 50%; /* Position content on the left for odd items */
+  text-align: left;
+}
+
+.timeline-item h3 {
+  margin: 0;
+  font-size: 1.5em;
+  color: var(--highlight-color);
+}
+
+.timeline-item p {
+  margin: 0.5em 0;
+  font-size: 1em;
+  line-height: 1.5;
+  color: #333;
+}
+
+.timeline-item.active {
+  opacity: 1;
+  transform: translateY(0);
 }
