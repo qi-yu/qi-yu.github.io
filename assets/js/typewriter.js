@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(event) {
-      var dataText = ["Full Stack Development", "Data Science", "Machine Learning", "Natural Language Processing"];
+      var dataText = ["Full Stack Web Development", "Data Science", "Machine Learning", "Natural Language Processing"];
 
       function typeWriter(text, i, fnCallback) {
           if (i < text.length) {
