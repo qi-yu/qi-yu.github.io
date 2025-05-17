@@ -16,8 +16,14 @@ See the tabs <a href="https://qi-yu.github.io/projects">Research Projects</a> an
 </p>
 
 <p class="text-block">
-When I'm not coding, I love to spend my time on:<br>
-<a href="https://qi-yu.github.io/horcrux/">Creating fan art</a> / writing fan fiction / watching football / watching My Little Pony.
+When I'm not coding, I am...<br>
+<ul>
+  <li>extremely obsessed with <a href="https://qi-yu.github.io/horcrux/">creating fan art</a>.</li>
+  <li>occasionally obsessed with writing fan fictions.</li>
+  <li>a football fan. Mostly into the DFB, but sometimes go down rabbit holes of '90s and 2000s football.</li>
+  <li>a Gothic fan, but just never dress in black or wear dark makeup.</li>
+  <li>a fan of My Little Pony. This explains why I love colors and avoid dressing in black.</li>
+</ul>
 
 </p>
 
